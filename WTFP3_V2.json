@@ -7795,29 +7795,29 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "卡",
-          "stroke": "#40352c",
           "x": 8,
           "y": 95,
           "id": 748
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "艾",
-          "stroke": "#40352c",
           "x": 150,
           "y": 152,
           "id": 749
@@ -8110,29 +8110,29 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "卡",
-          "stroke": "#40352c",
           "x": 8,
           "y": 95,
           "id": 683
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "艾",
-          "stroke": "#40352c",
           "x": 150,
           "y": 152,
           "id": 684
@@ -8416,29 +8416,29 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "卡",
-          "stroke": "#40352c",
           "x": 8,
           "y": 95,
           "id": 704
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "艾",
-          "stroke": "#40352c",
           "x": 150,
           "y": 152,
           "id": 705
@@ -8453,12 +8453,12 @@
           "id": 706
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215906_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の泥土",
           "iconId": 215906,
           "maxStacks": 0,
@@ -8469,12 +8469,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8485,12 +8485,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8501,12 +8501,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8517,12 +8517,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8533,12 +8533,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8549,12 +8549,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8565,12 +8565,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8581,12 +8581,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8597,12 +8597,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215906_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の泥土",
           "iconId": 215906,
           "maxStacks": 0,
@@ -8877,40 +8877,40 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "卡",
-          "stroke": "#40352c",
           "x": 8,
           "y": 95,
           "id": 782
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "艾",
-          "stroke": "#40352c",
           "x": 150,
           "y": 152,
           "id": 783
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215906_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の泥土",
           "iconId": 215906,
           "maxStacks": 0,
@@ -8921,12 +8921,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8937,12 +8937,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8953,12 +8953,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8969,12 +8969,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -8985,12 +8985,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9001,12 +9001,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9017,12 +9017,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9033,12 +9033,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9049,12 +9049,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215906_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の泥土",
           "iconId": 215906,
           "maxStacks": 0,
@@ -9065,12 +9065,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 55,
           "height": 73,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9079,12 +9079,12 @@
           "id": 795
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215906_hr1.tex?format=png",
           "width": 55,
           "height": 73,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の泥土",
           "iconId": 215906,
           "maxStacks": 0,
@@ -9093,54 +9093,54 @@
           "id": 796
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "混沌之土：倒計時結束前須吃到致死傷害，否則死去",
-          "stroke": "#40352c",
           "x": 63,
           "y": 363,
           "id": 797
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "混沌之泥土：倒計時結束前須回滿血，否則死去",
-          "stroke": "#40352c",
           "x": 37,
           "y": 285,
           "id": 798
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "開場賦予8人土debuff，分別有3種不同秒數，對應3個麻將\n同時有兩人賦予泥土debuff，補師須回滿兩人血量解除\n每次解除debuff都會有一層帶土耐弱的AOE小傷害\n所以補師不能同時奶滿兩個人",
-          "stroke": "#40352c",
           "x": 30,
           "y": -183,
           "id": 799
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -9149,12 +9149,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -9163,12 +9163,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -9177,12 +9177,12 @@
           "positionParentId": 770
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -9191,12 +9191,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -9205,12 +9205,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -9219,12 +9219,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -9233,12 +9233,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -9247,15 +9247,15 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "",
-          "stroke": "#40352c",
           "x": -263,
           "y": -236,
           "id": 852
@@ -9525,12 +9525,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9541,12 +9541,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9557,12 +9557,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9573,12 +9573,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9589,12 +9589,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9605,12 +9605,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9621,12 +9621,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9637,12 +9637,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -9653,12 +9653,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -9667,12 +9667,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -9681,12 +9681,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -9695,12 +9695,12 @@
           "positionParentId": 815
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -9709,12 +9709,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -9723,12 +9723,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -9737,12 +9737,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -9751,12 +9751,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -9765,26 +9765,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "巨大卡夫卡隨機出現至場地任一角，以該角為臨時正北\n此時卡夫卡有3種不同的動作：\n1. 抬起左手 - 半場刀+職能刀\n2. 抬起右手 - 半場刀+小扇形分攤\n3. 不抬雙手 - 橫躺場地中央的直線AOE\n除了最後一輪(第39頁)固定為直線AOE\n其他都是隨機處理",
-          "stroke": "#40352c",
           "x": -95,
           "y": 306,
           "id": 853
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -10057,12 +10057,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10073,12 +10073,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10089,12 +10089,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10105,12 +10105,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10121,12 +10121,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10137,12 +10137,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10153,12 +10153,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10169,12 +10169,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10185,12 +10185,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -10199,12 +10199,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -10213,12 +10213,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -10227,12 +10227,12 @@
           "positionParentId": 862
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -10241,12 +10241,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -10255,12 +10255,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -10269,12 +10269,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -10283,12 +10283,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -10297,26 +10297,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "巨大卡夫卡出現，假設抬左手(職能刀)\n此時Exdeath讀條黑洞",
-          "stroke": "#40352c",
           "x": -161,
           "y": 332,
           "id": 889
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -10658,12 +10658,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10674,12 +10674,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10690,12 +10690,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10706,12 +10706,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10722,12 +10722,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10738,12 +10738,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10754,12 +10754,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10770,12 +10770,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -10786,12 +10786,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -10800,12 +10800,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -10814,12 +10814,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -10828,12 +10828,12 @@
           "positionParentId": 907
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -10842,12 +10842,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -10856,12 +10856,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -10870,12 +10870,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -10884,12 +10884,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -10898,26 +10898,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "黑洞接線頭標手搖\n攻擊標為1號麻將\n鎖鏈標為2號麻將\n禁止標為3號麻將",
-          "stroke": "#40352c",
           "x": -214,
           "y": 333,
           "id": 934
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -10926,12 +10926,12 @@
           "id": 935
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -10940,12 +10940,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -10954,12 +10954,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -10968,12 +10968,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -10982,12 +10982,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -10996,12 +10996,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -11010,12 +11010,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -11024,12 +11024,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -11302,12 +11302,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11318,12 +11318,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11334,12 +11334,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11350,12 +11350,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11366,12 +11366,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11382,12 +11382,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11398,12 +11398,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11414,12 +11414,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -11430,12 +11430,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -11444,12 +11444,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -11458,12 +11458,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -11472,12 +11472,12 @@
           "positionParentId": 959
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -11486,12 +11486,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -11500,12 +11500,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -11514,12 +11514,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -11528,12 +11528,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -11542,26 +11542,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第一輪黑洞 - 一條線\n以巨大卡夫卡為北，順時針出去找線\n人群在中間，攻擊標1出去接線",
-          "stroke": "#40352c",
           "x": -186,
           "y": 341,
           "id": 986
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -11570,12 +11570,12 @@
           "id": 987
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -11584,12 +11584,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -11598,12 +11598,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -11612,12 +11612,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -11626,12 +11626,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -11640,12 +11640,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -11654,12 +11654,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -11668,12 +11668,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -11831,17 +11831,17 @@
           "id": 1007
         },
         {
+          "stroke": "#ff0000",
+          "style": "outline",
           "type": "text",
           "align": "left",
-          "fontSize": 15,
+          "fontSize": 35,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "人不能穿越黑洞\n會有傷害+貼紙",
-          "stroke": "#ff0000",
-          "x": -227,
-          "y": 98,
+          "x": -281,
+          "y": 129,
           "id": 1555
         }
       ]
@@ -12109,12 +12109,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12125,12 +12125,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12141,12 +12141,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12157,12 +12157,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12173,12 +12173,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12189,12 +12189,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12205,12 +12205,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12221,12 +12221,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12237,12 +12237,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -12251,12 +12251,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -12265,12 +12265,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -12279,12 +12279,12 @@
           "positionParentId": 1015
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -12293,12 +12293,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -12307,12 +12307,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -12321,12 +12321,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -12335,12 +12335,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -12349,26 +12349,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第二輪黑洞 - 兩條線\n人群稍微遠離中間，攻擊標1/2出去接線\n黑洞處理完後Exdeath讀條暴雷，換坦/無敵處理\n",
-          "stroke": "#40352c",
           "x": -119,
           "y": 322,
           "id": 1042
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -12377,12 +12377,12 @@
           "id": 1043
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -12391,12 +12391,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -12405,12 +12405,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -12419,12 +12419,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -12433,12 +12433,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -12447,12 +12447,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -12461,12 +12461,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -12475,12 +12475,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -12934,12 +12934,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12950,12 +12950,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12966,12 +12966,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12982,12 +12982,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -12998,12 +12998,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13014,12 +13014,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13030,12 +13030,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13046,12 +13046,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13062,12 +13062,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -13076,12 +13076,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -13090,12 +13090,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -13104,12 +13104,12 @@
           "positionParentId": 1131
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -13118,12 +13118,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -13132,12 +13132,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -13146,12 +13146,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -13160,12 +13160,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -13174,26 +13174,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "卡歐斯對隨機一人讀條半場刀，需要躲避後再處理抬手\n巨大卡夫卡出現，假設抬右手(小扇形分攤)",
-          "stroke": "#40352c",
           "x": -68,
           "y": 332,
           "id": 1158
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -13524,12 +13524,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13540,12 +13540,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13556,12 +13556,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13572,12 +13572,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13588,12 +13588,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13604,12 +13604,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13620,12 +13620,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13636,12 +13636,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -13652,12 +13652,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -13666,12 +13666,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -13680,12 +13680,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -13694,12 +13694,12 @@
           "positionParentId": 1175
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -13708,12 +13708,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -13722,12 +13722,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -13736,12 +13736,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -13750,12 +13750,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -13764,26 +13764,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第三輪黑洞 - 三條線\n以巨大卡夫卡為北，順時針出去找線\n人群在中間，攻擊標1/2/3出去接線",
-          "stroke": "#40352c",
           "x": -186,
           "y": 341,
           "id": 1202
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -13792,12 +13792,12 @@
           "id": 1203
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -13806,12 +13806,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -13820,12 +13820,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -13834,12 +13834,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -13848,12 +13848,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -13862,12 +13862,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -13876,12 +13876,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -13890,12 +13890,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -14363,12 +14363,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -14379,12 +14379,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -14395,12 +14395,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -14411,12 +14411,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -14427,12 +14427,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -14443,12 +14443,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -14459,12 +14459,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -14475,12 +14475,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -14489,12 +14489,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -14503,12 +14503,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -14517,12 +14517,12 @@
           "positionParentId": 1234
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -14531,12 +14531,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -14545,12 +14545,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -14559,12 +14559,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -14573,12 +14573,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -14587,26 +14587,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第四輪黑洞 - 三條線\n人群在中間，攻擊標2/3不動\n鎖鏈1接攻擊標1的線",
-          "stroke": "#40352c",
           "x": -201,
           "y": 346,
           "id": 1261
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -14615,12 +14615,12 @@
           "id": 1262
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -14629,12 +14629,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -14643,12 +14643,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -14657,12 +14657,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -14671,12 +14671,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -14685,12 +14685,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -14699,12 +14699,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -14713,12 +14713,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -15186,12 +15186,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -15202,12 +15202,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -15218,12 +15218,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -15234,12 +15234,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -15250,12 +15250,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -15266,12 +15266,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -15282,12 +15282,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -15296,12 +15296,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -15310,12 +15310,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -15324,12 +15324,12 @@
           "positionParentId": 1293
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -15338,12 +15338,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -15352,12 +15352,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -15366,12 +15366,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -15380,12 +15380,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -15394,26 +15394,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第五輪黑洞 - 三條線\n人群在中間，鎖鏈標1攻擊標3不動\n鎖鏈2接攻擊標2的線",
-          "stroke": "#40352c",
           "x": -201,
           "y": 346,
           "id": 1319
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -15422,12 +15422,12 @@
           "id": 1320
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -15436,12 +15436,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -15450,12 +15450,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -15464,12 +15464,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -15478,12 +15478,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -15492,12 +15492,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -15506,12 +15506,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -15520,12 +15520,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -15993,12 +15993,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16009,12 +16009,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16025,12 +16025,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16041,12 +16041,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16057,12 +16057,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16073,12 +16073,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16089,12 +16089,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16105,12 +16105,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16121,12 +16121,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -16135,12 +16135,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -16149,12 +16149,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -16163,12 +16163,12 @@
           "positionParentId": 1351
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -16177,12 +16177,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -16191,12 +16191,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -16205,12 +16205,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -16219,12 +16219,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -16233,26 +16233,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "卡歐斯對隨機一人讀條半場刀，需要躲避後再處理\n巨大卡夫卡出現，假設雙手放場上(直線AOE)，幾乎與半場刀同時判定\nExdeath讀條暴雷，換坦/無敵處理",
-          "stroke": "#40352c",
           "x": -20,
           "y": 367,
           "id": 1378
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -16558,12 +16558,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16574,12 +16574,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16590,12 +16590,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16606,12 +16606,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16622,12 +16622,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -16638,12 +16638,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -16652,12 +16652,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -16666,12 +16666,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -16680,12 +16680,12 @@
           "positionParentId": 1394
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -16694,12 +16694,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -16708,12 +16708,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -16722,12 +16722,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -16736,12 +16736,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -16750,26 +16750,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第六輪黑洞 - 三條線\n人群在中間，鎖鏈標1/2/3出去接線",
-          "stroke": "#40352c",
           "x": -201,
           "y": 346,
           "id": 1419
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -16778,12 +16778,12 @@
           "id": 1420
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -16792,12 +16792,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -16806,12 +16806,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -16820,12 +16820,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -16834,12 +16834,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -16848,12 +16848,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -16862,12 +16862,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -16876,12 +16876,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -17349,12 +17349,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -17365,12 +17365,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -17381,12 +17381,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -17397,12 +17397,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -17413,12 +17413,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -17427,12 +17427,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -17441,12 +17441,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -17455,12 +17455,12 @@
           "positionParentId": 1451
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -17469,12 +17469,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -17483,12 +17483,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -17497,12 +17497,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -17511,12 +17511,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -17525,26 +17525,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第七輪黑洞 - 三條線\n人群在中間，鎖鏈標2/3不動\n禁止1接鎖鏈標1的線",
-          "stroke": "#40352c",
           "x": -201,
           "y": 346,
           "id": 1475
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -17553,12 +17553,12 @@
           "id": 1476
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -17567,12 +17567,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -17581,12 +17581,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -17595,12 +17595,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -17609,12 +17609,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -17623,12 +17623,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -17637,12 +17637,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -17651,12 +17651,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -18124,12 +18124,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -18140,12 +18140,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -18156,12 +18156,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -18172,12 +18172,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -18186,12 +18186,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -18200,12 +18200,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -18214,12 +18214,12 @@
           "positionParentId": 1507
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -18228,12 +18228,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -18242,12 +18242,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -18256,12 +18256,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -18270,12 +18270,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -18284,26 +18284,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第八輪黑洞 - 三條線\n人群在中間，禁止標1鎖鏈標3不動\n禁止2接鎖鏈標2的線",
-          "stroke": "#40352c",
           "x": -201,
           "y": 346,
           "id": 1530
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -18312,12 +18312,12 @@
           "id": 1531
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -18326,12 +18326,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -18340,12 +18340,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -18354,12 +18354,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -18368,12 +18368,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -18382,12 +18382,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -18396,12 +18396,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -18410,12 +18410,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -18883,12 +18883,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -18899,12 +18899,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -18915,12 +18915,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -18929,12 +18929,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -18943,12 +18943,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -18957,12 +18957,12 @@
           "positionParentId": 1563
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -18971,12 +18971,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -18985,12 +18985,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -18999,12 +18999,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -19013,12 +19013,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -19027,26 +19027,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "巨大卡夫卡出現，先以它為臨時北\n坦克拉卡歐斯面向方面看前後/左右刀\n抬手與左右刀會同時判定",
-          "stroke": "#40352c",
           "x": -173,
           "y": 321,
           "id": 1590
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -19333,12 +19333,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19349,12 +19349,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19365,12 +19365,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19381,12 +19381,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19397,12 +19397,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19413,12 +19413,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19429,12 +19429,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19445,12 +19445,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19461,12 +19461,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -19475,12 +19475,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -19489,12 +19489,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -19503,12 +19503,12 @@
           "positionParentId": 1603
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -19517,12 +19517,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -19531,12 +19531,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -19545,12 +19545,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -19559,12 +19559,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -19573,26 +19573,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "",
-          "stroke": "#40352c",
           "x": -173,
           "y": 321,
           "id": 1630
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -19667,15 +19667,15 @@
           "id": 1637
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "假設抬右手+前後刀先的情況",
-          "stroke": "#40352c",
           "x": -239,
           "y": 355,
           "id": 1638
@@ -19945,12 +19945,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19961,12 +19961,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -19977,12 +19977,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -19991,12 +19991,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -20005,12 +20005,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -20019,12 +20019,12 @@
           "positionParentId": 1646
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -20033,12 +20033,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -20047,12 +20047,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -20061,12 +20061,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -20075,12 +20075,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -20089,26 +20089,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "",
-          "stroke": "#40352c",
           "x": -173,
           "y": 321,
           "id": 1673
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -20156,15 +20156,15 @@
           "pinned": false
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "左右刀與分攤同時判定",
-          "stroke": "#40352c",
           "x": -239,
           "y": 355,
           "id": 1681
@@ -20456,12 +20456,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -20472,12 +20472,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -20488,12 +20488,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -20502,12 +20502,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -20516,12 +20516,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -20530,12 +20530,12 @@
           "positionParentId": 1691
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -20544,12 +20544,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -20558,12 +20558,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -20572,12 +20572,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -20586,12 +20586,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -20600,26 +20600,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第九輪黑洞 - 兩條線\n人群在中間，禁止標1/2出去接線\n此時巨大卡夫卡準備消失",
-          "stroke": "#40352c",
           "x": -201,
           "y": 346,
           "id": 1713
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -20628,12 +20628,12 @@
           "id": 1714
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -20642,12 +20642,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -20656,12 +20656,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -20670,12 +20670,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -20684,12 +20684,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -20698,12 +20698,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -20712,12 +20712,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -20726,12 +20726,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -21176,12 +21176,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215907_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "混沌の土",
           "iconId": 215907,
           "maxStacks": 0,
@@ -21192,12 +21192,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -21206,12 +21206,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -21220,12 +21220,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -21234,12 +21234,12 @@
           "positionParentId": 1745
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit1.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 1",
           "x": 0,
           "y": 32,
@@ -21248,12 +21248,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -21262,12 +21262,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -21276,12 +21276,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit2.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 2",
           "x": 0,
           "y": 32,
@@ -21290,12 +21290,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/limit3.png",
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Counter 3",
           "x": 0,
           "y": 32,
@@ -21304,26 +21304,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第十輪黑洞 - 一條線\n巨大卡夫卡出現，以它為臨時北\n禁止標2接線\n人群躲避中間直線AOE\n不要碰到黑洞",
-          "stroke": "#40352c",
           "x": -202,
           "y": 311,
           "id": 1766
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -21332,12 +21332,12 @@
           "id": 1767
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 1",
           "x": 0,
           "y": 68,
@@ -21346,12 +21346,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 2",
           "x": 0,
           "y": 68,
@@ -21360,12 +21360,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/ignore1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Ignore 1",
           "x": 0,
           "y": 68,
@@ -21374,12 +21374,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 2",
           "x": 0,
           "y": 68,
@@ -21388,12 +21388,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack2.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 2",
           "x": 0,
           "y": 68,
@@ -21402,12 +21402,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/attack3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Attack 3",
           "x": 0,
           "y": 68,
@@ -21416,12 +21416,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind1.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 1",
           "x": 0,
           "y": 68,
@@ -21430,12 +21430,12 @@
           "pinned": true
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "/marker/bind3.png",
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "opacity": 100,
           "name": "Bind 3",
           "x": 0,
           "y": 68,
@@ -21883,26 +21883,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "以巨大卡夫卡為臨時北\n此時Exdeath讀條暴雪，人群中間集合誘導AOE\n之後以TH北/DPS南走出去\n注意被點分攤的職能\n\n",
-          "stroke": "#40352c",
           "x": -138,
           "y": 295,
           "id": 1818
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -22189,26 +22189,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "卡夫卡兩腳各生成兩座兩人塔\n分攤組至中間集合，非分攤組踩塔\n此處假設TH先為分攤組，DD為踩塔組\nMT組左ST組右",
-          "stroke": "#40352c",
           "x": -158,
           "y": 294,
           "id": 1859
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -22240,11 +22240,11 @@
           "id": 1862
         },
         {
+          "count": 1,
           "type": "stack",
           "color": "#fc972b",
           "opacity": 35,
           "radius": 46,
-          "count": 1,
           "x": 2,
           "y": 116,
           "id": 1863
@@ -22534,26 +22534,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "第一次分攤/踩塔判定",
-          "stroke": "#40352c",
           "x": -174,
           "y": 299,
           "id": 1882
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -22576,11 +22576,11 @@
           "id": 1884
         },
         {
+          "count": 1,
           "type": "stack",
           "color": "#fc972b",
           "opacity": 35,
           "radius": 46,
-          "count": 1,
           "x": 0,
           "y": 0,
           "id": 1886,
@@ -22908,26 +22908,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "換組，第二次踩塔/分攤判定",
-          "stroke": "#40352c",
           "x": -174,
           "y": 299,
           "id": 1911
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -22950,11 +22950,11 @@
           "id": 1913
         },
         {
+          "count": 1,
           "type": "stack",
           "color": "#fc972b",
           "opacity": 35,
           "radius": 46,
-          "count": 1,
           "x": 6,
           "y": 1,
           "id": 1914,
@@ -23245,26 +23245,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "Exdeath讀條暴雪，保持移動\nChaos讀條竹筍，遠離剛剛放分攤的中間",
-          "stroke": "#40352c",
           "x": -164,
           "y": 299,
           "id": 1939
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -23587,26 +23587,26 @@
           "pinned": true
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "約四下平A前要打死其中一隻\n另一隻才會開始讀條狂暴",
-          "stroke": "#40352c",
           "x": -176,
           "y": 277,
           "id": 1971
         },
         {
+          "opacity": 100,
           "type": "marker",
           "name": "Waymark A",
           "image": "/marker/waymark_a.png",
           "shape": "circle",
           "color": "#f13b66",
-          "opacity": 100,
           "width": 42,
           "height": 42,
           "rotation": 0,
@@ -23615,12 +23615,12 @@
           "id": 1972
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/216000/216308_hr1.tex?format=png",
           "width": 68,
           "height": 91,
           "rotation": 0,
-          "opacity": 100,
           "name": "Limit Breaker",
           "iconId": 216308,
           "maxStacks": 0,
