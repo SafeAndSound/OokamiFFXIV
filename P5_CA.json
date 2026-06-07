@@ -1,5 +1,5 @@
 {
-  "nextId": 2891,
+  "nextId": 2984,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -900,8 +900,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "狂氣のオーケストラ",
-          "x": -295,
-          "y": 398,
+          "x": -303,
+          "y": 400,
           "id": 2157
         },
         {
@@ -917,20 +917,6 @@
           "x": -336,
           "y": 332,
           "id": 2189
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ff0000",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "第一輪: 雙坦(賦予火水) + TH隨機三人(賦予長秒數易傷)",
-          "x": -76,
-          "y": 366,
-          "id": 2194
         },
         {
           "stroke": "#40352c",
@@ -956,23 +942,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -188,
-          "y": 334,
+          "x": -204,
+          "y": 310,
           "id": 2196
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "結束: 火坦:自身大鋼鐵 水坦:自身四人分攤",
-          "x": -148,
-          "y": 302,
-          "id": 2197
         },
         {
           "type": "circle",
@@ -1032,6 +1004,62 @@
           "x": -277,
           "y": -259,
           "id": 2263
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215113_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Holy Purgation",
+          "iconId": 215113,
+          "maxStacks": 0,
+          "x": -12,
+          "y": 130,
+          "id": 2892
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215122_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Soul of Fire",
+          "iconId": 215122,
+          "maxStacks": 0,
+          "x": -15,
+          "y": 214,
+          "id": 2894
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ff0000",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "第一輪: 雙坦(一仇賦予火 二仇賦予Holy) \n             + TH隨機三人(賦予長秒數易傷)",
+          "x": -175,
+          "y": 356,
+          "id": 2895
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
+          "x": -153,
+          "y": 278,
+          "id": 2903
         }
       ]
     },
@@ -1165,8 +1193,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "狂氣のオーケストラ",
-          "x": -295,
-          "y": 398,
+          "x": -305,
+          "y": 399,
           "id": 2212
         },
         {
@@ -1192,20 +1220,6 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "第一輪: 雙坦(賦予火水) + TH隨機三人(賦予長秒數易傷)",
-          "x": -76,
-          "y": 366,
-          "id": 2214
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
           "text": "",
           "x": -350,
           "y": 321,
@@ -1221,23 +1235,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -188,
-          "y": 334,
+          "x": -201,
+          "y": 307,
           "id": 2216
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "結束: 火坦:自身大鋼鐵 水坦:自身四人分攤",
-          "x": -148,
-          "y": 302,
-          "id": 2217
         },
         {
           "type": "circle",
@@ -1493,6 +1493,62 @@
           "x": 94,
           "y": -105,
           "id": 2265
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215122_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Soul of Fire",
+          "iconId": 215122,
+          "maxStacks": 0,
+          "x": -14,
+          "y": 212,
+          "id": 2891
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215113_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Holy Purgation",
+          "iconId": 215113,
+          "maxStacks": 0,
+          "x": -11,
+          "y": 133,
+          "id": 2893
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
+          "x": -150,
+          "y": 276,
+          "id": 2902
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "第一輪: 雙坦(一仇賦予火 二仇賦予Holy) \n             + TH隨機三人(賦予長秒數易傷)",
+          "x": -173,
+          "y": 351,
+          "id": 2904
         }
       ]
     },
@@ -1625,20 +1681,6 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "狂氣のオーケストラ",
-          "x": -295,
-          "y": 398,
-          "id": 2244
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
           "text": "",
           "x": -336,
           "y": 332,
@@ -1653,52 +1695,10 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "第一輪: 雙坦(賦予火水) + TH隨機三人(賦予長秒數易傷)",
-          "x": -76,
-          "y": 366,
-          "id": 2246
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
           "text": "",
           "x": -350,
           "y": 321,
           "id": 2247
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -188,
-          "y": 334,
-          "id": 2248
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ff0000",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "結束: 火坦:自身大鋼鐵 水坦:自身四人分攤",
-          "x": -148,
-          "y": 302,
-          "id": 2249
         },
         {
           "type": "circle",
@@ -1722,6 +1722,74 @@
           "x": 147,
           "y": -280,
           "id": 2261
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "狂氣のオーケストラ",
+          "x": -301,
+          "y": 404,
+          "id": 2897
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ff0000",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
+          "x": -150,
+          "y": 369,
+          "id": 2899
+        },
+        {
+          "count": 1,
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 75,
+          "x": -3,
+          "y": -4,
+          "id": 2901,
+          "positionParentId": 2237,
+          "pinned": false
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215122_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Soul of Fire",
+          "iconId": 215122,
+          "maxStacks": 0,
+          "x": -18,
+          "y": 295,
+          "id": 2905
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215113_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Holy Purgation",
+          "iconId": 215113,
+          "maxStacks": 0,
+          "x": -17,
+          "y": 126,
+          "id": 2906
         }
       ]
     },
@@ -4913,7 +4981,7 @@
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 2659
+          "id": 2907
         },
         {
           "opacity": 100,
@@ -4924,9 +4992,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 0,
-          "y": 118,
-          "id": 2660
+          "x": 1,
+          "y": 120,
+          "id": 2908
         },
         {
           "opacity": 100,
@@ -4937,9 +5005,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -4,
-          "y": 199,
-          "id": 2661
+          "x": -3,
+          "y": 197,
+          "id": 2909
         },
         {
           "opacity": 100,
@@ -4952,7 +5020,7 @@
           "rotation": 0,
           "x": -147,
           "y": 6,
-          "id": 2662
+          "id": 2910
         },
         {
           "opacity": 100,
@@ -4965,7 +5033,7 @@
           "rotation": 0,
           "x": 150,
           "y": -5,
-          "id": 2663
+          "id": 2911
         },
         {
           "opacity": 100,
@@ -4978,7 +5046,7 @@
           "rotation": 0,
           "x": -66,
           "y": -210,
-          "id": 2664
+          "id": 2912
         },
         {
           "opacity": 100,
@@ -4991,7 +5059,7 @@
           "rotation": 0,
           "x": -113,
           "y": -106,
-          "id": 2665
+          "id": 2913
         },
         {
           "opacity": 100,
@@ -5004,7 +5072,7 @@
           "rotation": 0,
           "x": 95,
           "y": -105,
-          "id": 2666
+          "id": 2914
         },
         {
           "opacity": 100,
@@ -5017,7 +5085,7 @@
           "rotation": 0,
           "x": 52,
           "y": -207,
-          "id": 2667
+          "id": 2915
         },
         {
           "stroke": "#40352c",
@@ -5029,9 +5097,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "狂氣のオーケストラ",
-          "x": -295,
-          "y": 398,
-          "id": 2668
+          "x": -303,
+          "y": 400,
+          "id": 2916
         },
         {
           "stroke": "#40352c",
@@ -5045,21 +5113,7 @@
           "text": "",
           "x": -336,
           "y": 332,
-          "id": 2669
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ff0000",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "第一輪: 雙坦(賦予火水) + TH隨機三人(賦予長秒數易傷)",
-          "x": -76,
-          "y": 366,
-          "id": 2670
+          "id": 2917
         },
         {
           "stroke": "#40352c",
@@ -5073,7 +5127,7 @@
           "text": "",
           "x": -350,
           "y": 321,
-          "id": 2671
+          "id": 2918
         },
         {
           "stroke": "#40352c",
@@ -5085,23 +5139,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -188,
-          "y": 334,
-          "id": 2672
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "結束: 火坦:自身大鋼鐵 水坦:自身四人分攤",
-          "x": -148,
-          "y": 302,
-          "id": 2673
+          "x": -204,
+          "y": 310,
+          "id": 2919
         },
         {
           "type": "circle",
@@ -5110,7 +5150,7 @@
           "radius": 50,
           "x": -4,
           "y": 199,
-          "id": 2674
+          "id": 2920
         },
         {
           "type": "circle",
@@ -5119,7 +5159,7 @@
           "radius": 50,
           "x": -1,
           "y": 113,
-          "id": 2675
+          "id": 2921
         },
         {
           "type": "circle",
@@ -5128,7 +5168,7 @@
           "radius": 50,
           "x": -146,
           "y": 10,
-          "id": 2676
+          "id": 2922
         },
         {
           "type": "circle",
@@ -5137,7 +5177,7 @@
           "radius": 50,
           "x": -108,
           "y": -100,
-          "id": 2677
+          "id": 2923
         },
         {
           "type": "circle",
@@ -5146,7 +5186,7 @@
           "radius": 50,
           "x": 142,
           "y": -1,
-          "id": 2678
+          "id": 2924
         },
         {
           "stroke": "#40352c",
@@ -5160,7 +5200,63 @@
           "text": "因為下一個機制是AA \n所以 左H 右D",
           "x": -277,
           "y": -259,
-          "id": 2679
+          "id": 2925
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215113_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Holy Purgation",
+          "iconId": 215113,
+          "maxStacks": 0,
+          "x": -12,
+          "y": 130,
+          "id": 2926
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215122_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Soul of Fire",
+          "iconId": 215122,
+          "maxStacks": 0,
+          "x": -15,
+          "y": 214,
+          "id": 2927
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ff0000",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "第一輪: 雙坦(一仇賦予火 二仇賦予Holy) \n             + TH隨機三人(賦予長秒數易傷)",
+          "x": -175,
+          "y": 356,
+          "id": 2928
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
+          "x": -153,
+          "y": 278,
+          "id": 2929
         },
         {
           "stroke": "#40352c",
@@ -5172,9 +5268,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "這邊開始之前 要換一仇坦(為了無敵入軸)",
-          "x": 187,
-          "y": 402,
-          "id": 2727
+          "x": 188.5,
+          "y": 406.5,
+          "id": 2980
         },
         {
           "type": "draw",
@@ -5196,15 +5292,15 @@
             -0.13414634146341464,
             -0.5
           ],
-          "x": 50.5,
-          "y": 154.5,
+          "x": 52,
+          "y": 159,
           "width": 41,
           "height": 79,
           "rotation": 0,
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2728
+          "id": 2981
         },
         {
           "type": "draw",
@@ -5218,15 +5314,15 @@
             0.1111111111111111,
             -0.5
           ],
-          "x": 30,
-          "y": 191,
+          "x": 31.5,
+          "y": 195.5,
           "width": 18,
           "height": 36,
           "rotation": 0,
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2729
+          "id": 2982
         },
         {
           "type": "draw",
@@ -5238,15 +5334,15 @@
             0.5,
             -0.5
           ],
-          "x": 38.5,
-          "y": 121,
+          "x": 40,
+          "y": 125.5,
           "width": 19,
           "height": 32,
           "rotation": 0,
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2730
+          "id": 2983
         }
       ]
     },
@@ -5264,7 +5360,7 @@
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 2680
+          "id": 2948
         },
         {
           "opacity": 100,
@@ -5275,9 +5371,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 2,
-          "y": 118,
-          "id": 2681
+          "x": 0,
+          "y": 125,
+          "id": 2949
         },
         {
           "opacity": 100,
@@ -5288,9 +5384,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
+          "x": -2,
           "y": 200,
-          "id": 2682
+          "id": 2950
         },
         {
           "opacity": 100,
@@ -5303,7 +5399,7 @@
           "rotation": 0,
           "x": -227,
           "y": 4,
-          "id": 2683
+          "id": 2951
         },
         {
           "opacity": 100,
@@ -5316,7 +5412,7 @@
           "rotation": 0,
           "x": 227,
           "y": -5,
-          "id": 2684
+          "id": 2952
         },
         {
           "opacity": 100,
@@ -5329,7 +5425,7 @@
           "rotation": 0,
           "x": -62,
           "y": -113,
-          "id": 2685
+          "id": 2953
         },
         {
           "opacity": 100,
@@ -5342,7 +5438,7 @@
           "rotation": 0,
           "x": -176,
           "y": -150,
-          "id": 2686
+          "id": 2954
         },
         {
           "opacity": 100,
@@ -5355,7 +5451,7 @@
           "rotation": 0,
           "x": 95,
           "y": -105,
-          "id": 2687
+          "id": 2955
         },
         {
           "opacity": 100,
@@ -5368,7 +5464,7 @@
           "rotation": 0,
           "x": 52,
           "y": -207,
-          "id": 2688
+          "id": 2956
         },
         {
           "stroke": "#40352c",
@@ -5380,9 +5476,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "狂氣のオーケストラ",
-          "x": -295,
-          "y": 398,
-          "id": 2689
+          "x": -305,
+          "y": 399,
+          "id": 2957
         },
         {
           "stroke": "#40352c",
@@ -5396,21 +5492,7 @@
           "text": "",
           "x": -336,
           "y": 332,
-          "id": 2690
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "第一輪: 雙坦(賦予火水) + TH隨機三人(賦予長秒數易傷)",
-          "x": -76,
-          "y": 366,
-          "id": 2691
+          "id": 2958
         },
         {
           "stroke": "#40352c",
@@ -5424,7 +5506,7 @@
           "text": "",
           "x": -350,
           "y": 321,
-          "id": 2692
+          "id": 2959
         },
         {
           "stroke": "#40352c",
@@ -5436,23 +5518,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -188,
-          "y": 334,
-          "id": 2693
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "結束: 火坦:自身大鋼鐵 水坦:自身四人分攤",
-          "x": -148,
-          "y": 302,
-          "id": 2694
+          "x": -201,
+          "y": 307,
+          "id": 2960
         },
         {
           "type": "circle",
@@ -5461,7 +5529,7 @@
           "radius": 50,
           "x": -1,
           "y": 113,
-          "id": 2695
+          "id": 2961
         },
         {
           "stroke": "#40352c",
@@ -5473,9 +5541,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "T1在第一輪之後嘲諷 \n開無敵 同時接一仇+近誘導",
-          "x": 227,
-          "y": 132,
-          "id": 2696
+          "x": 216,
+          "y": 140,
+          "id": 2962
         },
         {
           "type": "draw",
@@ -5499,7 +5567,7 @@
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2697
+          "id": 2963
         },
         {
           "type": "draw",
@@ -5517,7 +5585,7 @@
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2698
+          "id": 2964
         },
         {
           "type": "draw",
@@ -5539,7 +5607,7 @@
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2699
+          "id": 2965
         },
         {
           "type": "draw",
@@ -5561,7 +5629,7 @@
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2700
+          "id": 2966
         },
         {
           "type": "draw",
@@ -5587,7 +5655,7 @@
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2701
+          "id": 2967
         },
         {
           "type": "draw",
@@ -5605,7 +5673,7 @@
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2702
+          "id": 2968
         },
         {
           "type": "draw",
@@ -5629,7 +5697,7 @@
           "brushSize": 8,
           "color": "#0066ff",
           "opacity": 100,
-          "id": 2703
+          "id": 2969
         },
         {
           "type": "draw",
@@ -5647,7 +5715,7 @@
           "brushSize": 8,
           "color": "#0066ff",
           "opacity": 100,
-          "id": 2704
+          "id": 2970
         },
         {
           "stroke": "#40352c",
@@ -5661,7 +5729,7 @@
           "text": "H1 H2 D1 D2:只要被炸就往後退",
           "x": -223,
           "y": -251,
-          "id": 2705
+          "id": 2971
         },
         {
           "stroke": "#40352c",
@@ -5675,7 +5743,7 @@
           "text": "",
           "x": 147,
           "y": -280,
-          "id": 2706
+          "id": 2972
         },
         {
           "stroke": "#40352c",
@@ -5689,7 +5757,7 @@
           "text": "D3 D4:看前面兩個人 如果被炸就往前",
           "x": -200,
           "y": -288,
-          "id": 2707
+          "id": 2973
         },
         {
           "type": "circle",
@@ -5698,7 +5766,7 @@
           "radius": 50,
           "x": -63,
           "y": -111,
-          "id": 2708
+          "id": 2974
         },
         {
           "type": "circle",
@@ -5707,7 +5775,63 @@
           "radius": 50,
           "x": 94,
           "y": -105,
-          "id": 2709
+          "id": 2975
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215122_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Soul of Fire",
+          "iconId": 215122,
+          "maxStacks": 0,
+          "x": -14,
+          "y": 212,
+          "id": 2976
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215113_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Holy Purgation",
+          "iconId": 215113,
+          "maxStacks": 0,
+          "x": -11,
+          "y": 133,
+          "id": 2977
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
+          "x": -150,
+          "y": 276,
+          "id": 2978
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "第一輪: 雙坦(一仇賦予火 二仇賦予Holy) \n             + TH隨機三人(賦予長秒數易傷)",
+          "x": -173,
+          "y": 351,
+          "id": 2979
         }
       ]
     },
@@ -5725,7 +5849,7 @@
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 2710
+          "id": 2930
         },
         {
           "opacity": 100,
@@ -5736,9 +5860,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 3,
-          "y": 109,
-          "id": 2711
+          "x": -4,
+          "y": 114,
+          "id": 2931
         },
         {
           "opacity": 100,
@@ -5749,9 +5873,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 2,
-          "y": 271,
-          "id": 2712
+          "x": -4,
+          "y": 278,
+          "id": 2932
         },
         {
           "opacity": 100,
@@ -5764,7 +5888,7 @@
           "rotation": 0,
           "x": -141,
           "y": -121,
-          "id": 2713
+          "id": 2933
         },
         {
           "opacity": 100,
@@ -5777,7 +5901,7 @@
           "rotation": 0,
           "x": 104,
           "y": -141,
-          "id": 2714
+          "id": 2934
         },
         {
           "opacity": 100,
@@ -5790,7 +5914,7 @@
           "rotation": 0,
           "x": 144,
           "y": -136,
-          "id": 2715
+          "id": 2935
         },
         {
           "opacity": 100,
@@ -5803,7 +5927,7 @@
           "rotation": 0,
           "x": -115,
           "y": -121,
-          "id": 2716
+          "id": 2936
         },
         {
           "opacity": 100,
@@ -5816,7 +5940,7 @@
           "rotation": 0,
           "x": 87,
           "y": -126,
-          "id": 2717
+          "id": 2937
         },
         {
           "opacity": 100,
@@ -5829,21 +5953,7 @@
           "rotation": 0,
           "x": 92,
           "y": -158,
-          "id": 2718
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "狂氣のオーケストラ",
-          "x": -295,
-          "y": 398,
-          "id": 2719
+          "id": 2938
         },
         {
           "stroke": "#40352c",
@@ -5857,21 +5967,7 @@
           "text": "",
           "x": -336,
           "y": 332,
-          "id": 2720
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "第一輪: 雙坦(賦予火水) + TH隨機三人(賦予長秒數易傷)",
-          "x": -76,
-          "y": 366,
-          "id": 2721
+          "id": 2939
         },
         {
           "stroke": "#40352c",
@@ -5885,35 +5981,7 @@
           "text": "",
           "x": -350,
           "y": 321,
-          "id": 2722
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -188,
-          "y": 334,
-          "id": 2723
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ff0000",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "結束: 火坦:自身大鋼鐵 水坦:自身四人分攤",
-          "x": -148,
-          "y": 302,
-          "id": 2724
+          "id": 2940
         },
         {
           "type": "circle",
@@ -5922,7 +5990,7 @@
           "radius": 341,
           "x": 2,
           "y": 284,
-          "id": 2725
+          "id": 2941
         },
         {
           "stroke": "#40352c",
@@ -5936,7 +6004,75 @@
           "text": "",
           "x": 147,
           "y": -280,
-          "id": 2726
+          "id": 2942
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "狂氣のオーケストラ",
+          "x": -301,
+          "y": 404,
+          "id": 2943
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ff0000",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
+          "x": -150,
+          "y": 369,
+          "id": 2944
+        },
+        {
+          "count": 1,
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 75,
+          "x": 0,
+          "y": 0,
+          "id": 2945,
+          "pinned": false,
+          "positionParentId": 2931
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215122_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Soul of Fire",
+          "iconId": 215122,
+          "maxStacks": 0,
+          "x": -18,
+          "y": 295,
+          "id": 2946
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215113_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Holy Purgation",
+          "iconId": 215113,
+          "maxStacks": 0,
+          "x": -17,
+          "y": 126,
+          "id": 2947
         }
       ]
     },
@@ -6911,9 +7047,9 @@
           "color": "#00e622",
           "opacity": 100,
           "rotation": 0,
-          "text": "人群分攤 (目標是順時針走到 下一個正點安區)",
-          "x": -144,
-          "y": 281,
+          "text": "人群分攤",
+          "x": -346,
+          "y": 291,
           "id": 2849
         },
         {
