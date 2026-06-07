@@ -1,5 +1,5 @@
 {
-  "nextId": 3005,
+  "nextId": 3406,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -20,7 +20,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -150,15 +150,15 @@
           "stroke": "#40352c",
           "style": "outline",
           "type": "text",
-          "align": "center",
+          "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "連續AOEx4",
-          "x": -315,
-          "y": 358,
-          "id": 2191
+          "text": "連續AOEx4\n前T 左H 右D 準備AA",
+          "x": -263,
+          "y": 333,
+          "id": 3291
         }
       ]
     },
@@ -170,7 +170,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -313,18 +313,6 @@
           "type": "stack",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 75,
-          "x": -108,
-          "y": -96,
-          "id": 2133,
-          "pinned": false,
-          "positionParentId": 2122
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#fc972b",
-          "opacity": 35,
           "radius": 133,
           "x": 114,
           "y": -122,
@@ -341,10 +329,19 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "職能刀\nDPS的分攤比較大",
-          "x": -280,
-          "y": 347,
+          "text": "職能刀\nDPS的分攤比較大\nH應該是單點",
+          "x": -278,
+          "y": 332,
           "id": 2190
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 50,
+          "x": -111,
+          "y": -84,
+          "id": 3072
         }
       ]
     },
@@ -356,7 +353,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -487,7 +484,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -778,7 +775,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -795,8 +792,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -2,
-          "y": 199,
+          "x": -71,
+          "y": 168,
           "id": 2149
         },
         {
@@ -808,8 +805,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
-          "y": 115,
+          "x": 58,
+          "y": 164,
           "id": 2150
         },
         {
@@ -821,8 +818,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -147,
-          "y": 6,
+          "x": -169,
+          "y": 100,
           "id": 2151
         },
         {
@@ -834,8 +831,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 150,
-          "y": -5,
+          "x": -57,
+          "y": -154,
           "id": 2152
         },
         {
@@ -847,8 +844,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -66,
-          "y": -210,
+          "x": 168,
+          "y": 90,
           "id": 2153
         },
         {
@@ -860,8 +857,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -113,
-          "y": -106,
+          "x": -175,
+          "y": -71,
           "id": 2154
         },
         {
@@ -873,8 +870,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 95,
-          "y": -105,
+          "x": 75,
+          "y": -151,
           "id": 2155
         },
         {
@@ -886,8 +883,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 52,
-          "y": -207,
+          "x": 175,
+          "y": -70,
           "id": 2156
         },
         {
@@ -941,8 +938,8 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -204,
+          "text": "第二輪: 一仇坦 + 近三人",
+          "x": -262,
           "y": 310,
           "id": 2196
         },
@@ -950,45 +947,45 @@
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -4,
-          "y": 199,
+          "radius": 90,
+          "x": -71,
+          "y": 169,
           "id": 2198
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -1,
-          "y": 113,
+          "radius": 90,
+          "x": 60,
+          "y": 161,
           "id": 2199
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -146,
-          "y": 10,
+          "radius": 90,
+          "x": -169,
+          "y": 101,
           "id": 2200
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -108,
-          "y": -100,
+          "radius": 90,
+          "x": -177,
+          "y": -66,
           "id": 2201
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": 142,
-          "y": -1,
+          "radius": 90,
+          "x": 162,
+          "y": 87,
           "id": 2202
         },
         {
@@ -1015,8 +1012,8 @@
           "name": "Holy Purgation",
           "iconId": 215113,
           "maxStacks": 0,
-          "x": -12,
-          "y": 130,
+          "x": 68,
+          "y": 176,
           "id": 2892
         },
         {
@@ -1029,8 +1026,8 @@
           "name": "Soul of Fire",
           "iconId": 215122,
           "maxStacks": 0,
-          "x": -15,
-          "y": 214,
+          "x": -58,
+          "y": 186,
           "id": 2894
         },
         {
@@ -1071,8 +1068,8 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": -164,
-          "y": 23,
+          "x": -184,
+          "y": 114,
           "id": 2984
         },
         {
@@ -1085,8 +1082,8 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": -130,
-          "y": -92,
+          "x": -197,
+          "y": -52,
           "id": 2986
         },
         {
@@ -1099,9 +1096,65 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 135,
-          "y": 4,
+          "x": 184,
+          "y": 106,
           "id": 2987
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "",
+          "x": -280,
+          "y": 176,
+          "id": 3007
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "",
+          "x": 33,
+          "y": -235,
+          "id": 3079
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "",
+          "x": 123,
+          "y": 360,
+          "id": 3082
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "T H D是以斜八方的站法，站在身位圈外",
+          "x": 182,
+          "y": -252,
+          "id": 3405
         }
       ]
     },
@@ -1113,7 +1166,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -1130,8 +1183,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -2,
-          "y": 199,
+          "x": -86,
+          "y": 167,
           "id": 2204
         },
         {
@@ -1143,8 +1196,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
-          "y": 115,
+          "x": 72,
+          "y": 170,
           "id": 2205
         },
         {
@@ -1169,8 +1222,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 227,
-          "y": -5,
+          "x": -118,
+          "y": -13,
           "id": 2207
         },
         {
@@ -1182,8 +1235,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -62,
-          "y": -113,
+          "x": 265,
+          "y": -14,
           "id": 2208
         },
         {
@@ -1195,8 +1248,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -176,
-          "y": -150,
+          "x": -214,
+          "y": -113,
           "id": 2209
         },
         {
@@ -1208,8 +1261,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 95,
-          "y": -105,
+          "x": 17,
+          "y": -99,
           "id": 2210
         },
         {
@@ -1221,8 +1274,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 52,
-          "y": -207,
+          "x": 130,
+          "y": -11,
           "id": 2211
         },
         {
@@ -1276,75 +1329,19 @@
           "color": "#ff0000",
           "opacity": 100,
           "rotation": 0,
-          "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -201,
-          "y": 307,
+          "text": "第二輪: 一仇坦 + 近三人",
+          "x": -260,
+          "y": 305,
           "id": 2216
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -1,
-          "y": 113,
+          "radius": 90,
+          "x": 70,
+          "y": 166,
           "id": 2219
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "T2在第一輪之後嘲諷 \n開無敵 同時接一仇+近誘導",
-          "x": 227,
-          "y": 132,
-          "id": 2223
-        },
-        {
-          "type": "draw",
-          "points": [
-            0.5,
-            -0.5,
-            -0.5,
-            -0.47058823529411764,
-            -0.4672131147540984,
-            -0.23529411764705882,
-            -0.2540983606557377,
-            0.35294117647058826,
-            -0.13934426229508196,
-            0.5
-          ],
-          "x": -152.5,
-          "y": 19,
-          "width": 61,
-          "height": 34,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2224
-        },
-        {
-          "type": "draw",
-          "points": [
-            -0.5,
-            0.5,
-            0.5,
-            -0.5
-          ],
-          "x": -179.5,
-          "y": -8,
-          "width": 15,
-          "height": 26,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2225
         },
         {
           "type": "draw",
@@ -1358,8 +1355,8 @@
             -0.5,
             -0.5
           ],
-          "x": -117.5,
-          "y": -98,
+          "x": -136,
+          "y": -41,
           "width": 43,
           "height": 42,
           "rotation": 0,
@@ -1380,8 +1377,8 @@
             0.5,
             -0.4722222222222222
           ],
-          "x": -136.5,
-          "y": -115,
+          "x": -154,
+          "y": -60,
           "width": 31,
           "height": 36,
           "rotation": 0,
@@ -1389,92 +1386,6 @@
           "color": "#00e622",
           "opacity": 100,
           "id": 2227
-        },
-        {
-          "type": "draw",
-          "points": [
-            -0.5,
-            -0.39655172413793105,
-            -0.1349206349206349,
-            -0.39655172413793105,
-            0.007936507936507936,
-            -0.5,
-            0.5,
-            -0.43103448275862066,
-            0.48412698412698413,
-            0.22413793103448276,
-            0.40476190476190477,
-            0.5
-          ],
-          "x": 166.5,
-          "y": 3.5,
-          "width": 63,
-          "height": 29,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2228
-        },
-        {
-          "type": "draw",
-          "points": [
-            0.5,
-            0.5,
-            -0.5,
-            -0.5
-          ],
-          "x": 188,
-          "y": -29.5,
-          "width": 24,
-          "height": 29,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2229
-        },
-        {
-          "type": "draw",
-          "points": [
-            0.3125,
-            -0.5,
-            0.5,
-            -0.08208955223880597,
-            0.3125,
-            0.5,
-            0.125,
-            0.5,
-            -0.5,
-            0.3208955223880597
-          ],
-          "x": -69,
-          "y": -164.5,
-          "width": 16,
-          "height": 67,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#0066ff",
-          "opacity": 100,
-          "id": 2230
-        },
-        {
-          "type": "draw",
-          "points": [
-            -0.5,
-            0.5,
-            0.5,
-            -0.5
-          ],
-          "x": -41,
-          "y": -140.5,
-          "width": 30,
-          "height": 17,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#0066ff",
-          "opacity": 100,
-          "id": 2231
         },
         {
           "stroke": "#40352c",
@@ -1485,9 +1396,9 @@
           "color": "#00e622",
           "opacity": 100,
           "rotation": 0,
-          "text": "H1 H2 D1 D2:只要被炸就往後退",
+          "text": "H D:被炸就外退 慢慢往南半場靠",
           "x": -223,
-          "y": -251,
+          "y": -229,
           "id": 2232
         },
         {
@@ -1505,35 +1416,21 @@
           "id": 2233
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#0066ff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "D3 D4:看前面兩個人 如果被炸就往前",
-          "x": -200,
-          "y": -288,
-          "id": 2234
-        },
-        {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -63,
-          "y": -111,
+          "radius": 90,
+          "x": -120,
+          "y": -14,
           "id": 2264
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": 94,
-          "y": -105,
+          "radius": 90,
+          "x": 19,
+          "y": -94,
           "id": 2265
         },
         {
@@ -1546,8 +1443,8 @@
           "name": "Soul of Fire",
           "iconId": 215122,
           "maxStacks": 0,
-          "x": -14,
-          "y": 212,
+          "x": -101,
+          "y": 195,
           "id": 2891
         },
         {
@@ -1560,8 +1457,8 @@
           "name": "Holy Purgation",
           "iconId": 215113,
           "maxStacks": 0,
-          "x": -11,
-          "y": 133,
+          "x": 61,
+          "y": 185,
           "id": 2893
         },
         {
@@ -1616,8 +1513,8 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": -188,
-          "y": -135,
+          "x": -226,
+          "y": -95,
           "id": 2989
         },
         {
@@ -1630,8 +1527,8 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 215,
-          "y": 13,
+          "x": 247,
+          "y": 4,
           "id": 2990
         },
         {
@@ -1644,8 +1541,8 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": -78,
-          "y": -97,
+          "x": -106,
+          "y": -4,
           "id": 2991
         },
         {
@@ -1658,9 +1555,318 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 84,
-          "y": -93,
+          "x": 29,
+          "y": -87,
           "id": 2992
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.3064516129032258,
+            0.15263157894736842,
+            0.46774193548387094,
+            -0.3,
+            0.5,
+            -0.45789473684210524,
+            -0.14516129032258066,
+            -0.5,
+            -0.5
+          ],
+          "x": -165.5,
+          "y": 53.5,
+          "width": 95,
+          "height": 31,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3005
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            -0.4142857142857143,
+            -0.21428571428571427,
+            -0.21428571428571427,
+            -0.4642857142857143,
+            -0.07142857142857142,
+            -0.5,
+            0.5,
+            -0.25
+          ],
+          "x": -207.5,
+          "y": 46,
+          "width": 35,
+          "height": 28,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3006
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.004,
+            0.5,
+            0.212,
+            0.35714285714285715,
+            0.276,
+            0.2755102040816326,
+            0.492,
+            -0.25510204081632654,
+            0.5,
+            -0.5
+          ],
+          "x": 177.5,
+          "y": 36.5,
+          "width": 125,
+          "height": 49,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3008
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.46551724137931033,
+            0.5,
+            0.5,
+            -0.5,
+            -0.5,
+            -0.39285714285714285
+          ],
+          "x": 238.5,
+          "y": 27,
+          "width": 29,
+          "height": 28,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3009
+        },
+        {
+          "stroke": "#0066ff",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "H D:沒被炸就往裡面站到 內身位圈 \n       稍微看左右散開",
+          "x": -209,
+          "y": -283,
+          "id": 3083
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            -0.5,
+            0.5,
+            0.06043956043956044,
+            0.4090909090909091,
+            0.34615384615384615,
+            -0.13636363636363635,
+            0.489010989010989,
+            -0.5,
+            0.5
+          ],
+          "x": -83.5,
+          "y": -131.5,
+          "width": 11,
+          "height": 91,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3084
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "x": -96,
+          "y": -96,
+          "width": 14,
+          "height": 20,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3085
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.5,
+            -0.5
+          ],
+          "x": -73.5,
+          "y": -87.5,
+          "width": 25,
+          "height": 1,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3086
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            -0.5,
+            0.25,
+            -0.39655172413793105,
+            -0.23076923076923078,
+            -0.07471264367816093,
+            -0.4423076923076923,
+            0.2471264367816092,
+            -0.5,
+            0.5
+          ],
+          "x": 46,
+          "y": -170.5,
+          "width": 52,
+          "height": 87,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3221
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "x": 12.5,
+          "y": -133,
+          "width": 15,
+          "height": 12,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3222
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.5,
+            -0.5
+          ],
+          "x": 31,
+          "y": -131.5,
+          "width": 18,
+          "height": 9,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3223
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 90,
+          "x": 128,
+          "y": -14,
+          "id": 3224
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Magic Defense Down",
+          "iconId": 215057,
+          "maxStacks": 0,
+          "x": 114,
+          "y": 0,
+          "id": 3225
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            -0.5,
+            0.3181818181818182,
+            -0.3380952380952381,
+            0.21428571428571427,
+            -0.1380952380952381,
+            -0.2922077922077922,
+            0.5,
+            -0.33116883116883117,
+            0.5,
+            -0.5,
+            0.3476190476190476
+          ],
+          "x": 158.5,
+          "y": -101.5,
+          "width": 77,
+          "height": 105,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3226
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            -0.5,
+            0.5,
+            0.5
+          ],
+          "x": 148.5,
+          "y": -43.5,
+          "width": 25,
+          "height": 3,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3227
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ff0000",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "T2在第一輪之後 \n嘲諷+無敵",
+          "x": 209,
+          "y": 177,
+          "id": 3403
         }
       ]
     },
@@ -1672,13 +1878,13 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 2235
+          "id": 3165
         },
         {
           "opacity": 100,
@@ -1691,7 +1897,7 @@
           "rotation": 0,
           "x": 1,
           "y": 277,
-          "id": 2236
+          "id": 3166
         },
         {
           "opacity": 100,
@@ -1702,9 +1908,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 2,
-          "y": 112,
-          "id": 2237
+          "x": -2,
+          "y": 76,
+          "id": 3167
         },
         {
           "opacity": 100,
@@ -1715,9 +1921,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -141,
-          "y": -121,
-          "id": 2238
+          "x": -143,
+          "y": -165,
+          "id": 3168
         },
         {
           "opacity": 100,
@@ -1728,9 +1934,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 55,
-          "y": -149,
-          "id": 2239
+          "x": 46,
+          "y": -182,
+          "id": 3169
         },
         {
           "opacity": 100,
@@ -1741,9 +1947,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 117,
-          "y": -138,
-          "id": 2240
+          "x": 125,
+          "y": -185,
+          "id": 3170
         },
         {
           "opacity": 100,
@@ -1754,9 +1960,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -115,
-          "y": -121,
-          "id": 2241
+          "x": -107,
+          "y": -164,
+          "id": 3171
         },
         {
           "opacity": 100,
@@ -1767,9 +1973,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 143,
-          "y": -100,
-          "id": 2242
+          "x": 162,
+          "y": -145,
+          "id": 3172
         },
         {
           "opacity": 100,
@@ -1780,9 +1986,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 84,
-          "y": -168,
-          "id": 2243
+          "x": 85,
+          "y": -184,
+          "id": 3173
         },
         {
           "stroke": "#40352c",
@@ -1796,7 +2002,7 @@
           "text": "",
           "x": -336,
           "y": 332,
-          "id": 2245
+          "id": 3174
         },
         {
           "stroke": "#40352c",
@@ -1810,16 +2016,16 @@
           "text": "",
           "x": -350,
           "y": 321,
-          "id": 2247
+          "id": 3175
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 341,
+          "radius": 403,
           "x": 2,
           "y": 284,
-          "id": 2250
+          "id": 3176
         },
         {
           "stroke": "#40352c",
@@ -1833,7 +2039,7 @@
           "text": "",
           "x": 147,
           "y": -280,
-          "id": 2261
+          "id": 3177
         },
         {
           "stroke": "#40352c",
@@ -1847,7 +2053,7 @@
           "text": "狂氣のオーケストラ",
           "x": -301,
           "y": 404,
-          "id": 2897
+          "id": 3178
         },
         {
           "stroke": "#40352c",
@@ -1861,7 +2067,7 @@
           "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
           "x": -150,
           "y": 369,
-          "id": 2899
+          "id": 3179
         },
         {
           "count": 1,
@@ -1871,8 +2077,8 @@
           "radius": 75,
           "x": -3,
           "y": -4,
-          "id": 2901,
-          "positionParentId": 2237,
+          "id": 3180,
+          "positionParentId": 3167,
           "pinned": false
         },
         {
@@ -1887,7 +2093,7 @@
           "maxStacks": 0,
           "x": -18,
           "y": 295,
-          "id": 2905
+          "id": 3181
         },
         {
           "opacity": 100,
@@ -1899,9 +2105,9 @@
           "name": "Holy Purgation",
           "iconId": 215113,
           "maxStacks": 0,
-          "x": -17,
-          "y": 126,
-          "id": 2906
+          "x": -12,
+          "y": 88,
+          "id": 3182
         },
         {
           "opacity": 100,
@@ -1913,9 +2119,9 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 131,
-          "y": -84,
-          "id": 2993
+          "x": 181,
+          "y": -133,
+          "id": 3183
         },
         {
           "opacity": 100,
@@ -1927,9 +2133,231 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 104,
-          "y": -126,
-          "id": 2994
+          "x": 37,
+          "y": -156,
+          "id": 3184
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "人群往南半場靠 \n同時左H 右D 準備接AA",
+          "x": 3,
+          "y": -251,
+          "id": 3185
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.3611111111111111,
+            0.5,
+            -0.5,
+            0.23880597014925373,
+            -0.4444444444444444,
+            0.022388059701492536,
+            -0.3055555555555556,
+            -0.13432835820895522,
+            0.5,
+            -0.5
+          ],
+          "x": -198,
+          "y": -73,
+          "width": 36,
+          "height": 134,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3186
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.475,
+            0.5,
+            0.5,
+            -0.20967741935483872,
+            0.35,
+            -0.5,
+            -0.5,
+            -0.5
+          ],
+          "x": -185,
+          "y": -134.5,
+          "width": 40,
+          "height": 31,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3187
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            0.5,
+            0.24305555555555555,
+            0.3780487804878049,
+            0.0625,
+            -0.08536585365853659,
+            -0.2916666666666667,
+            -0.5,
+            -0.5
+          ],
+          "x": 229.5,
+          "y": -56,
+          "width": 41,
+          "height": 144,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3188
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.3333333333333333,
+            0.5,
+            -0.5,
+            -0.5,
+            -0.08333333333333333,
+            -0.5,
+            0.5,
+            -0.36486486486486486
+          ],
+          "x": 214,
+          "y": -120.5,
+          "width": 24,
+          "height": 37,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3189
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#00e622",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "火坦靠邊\n",
+          "x": -119,
+          "y": 224,
+          "id": 3190
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.4642857142857143,
+            -0.5,
+            0.5,
+            0.5,
+            0,
+            0.3870967741935484,
+            -0.5,
+            0.1774193548387097
+          ],
+          "x": -11,
+          "y": 218,
+          "width": 28,
+          "height": 62,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3191
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.5,
+            -0.5
+          ],
+          "x": 20.5,
+          "y": 237.5,
+          "width": 33,
+          "height": 15,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3192
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "HOLY坦(一仇)往腳下走 \n避免王移動",
+          "x": 245,
+          "y": 181,
+          "id": 3228
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            0.3,
+            0.2323943661971831,
+            -0.175,
+            -0.11971830985915492,
+            -0.275,
+            -0.2887323943661972,
+            -0.5,
+            -0.5
+          ],
+          "x": 66,
+          "y": 127.5,
+          "width": 80,
+          "height": 71,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3229
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.015151515151515152,
+            0.5,
+            -0.015151515151515152,
+            0.21428571428571427,
+            -0.5,
+            -0.42857142857142855,
+            0.3181818181818182,
+            -0.39285714285714285,
+            0.5,
+            -0.5
+          ],
+          "x": 26.5,
+          "y": 99,
+          "width": 33,
+          "height": 28,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3230
         }
       ]
     },
@@ -1941,7 +2369,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -2084,18 +2512,6 @@
           "type": "stack",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 75,
-          "x": -108,
-          "y": -96,
-          "id": 2277,
-          "pinned": false,
-          "positionParentId": 2266
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#fc972b",
-          "opacity": 35,
           "radius": 133,
           "x": 114,
           "y": -122,
@@ -2112,10 +2528,19 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "職能刀\nDPS的分攤比較大",
-          "x": -280,
-          "y": 347,
-          "id": 2279
+          "text": "職能刀\nDPS的分攤比較大\nH應該是單點",
+          "x": -272,
+          "y": 333,
+          "id": 3073
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 50,
+          "x": -109,
+          "y": -86,
+          "id": 3074
         }
       ]
     },
@@ -2127,7 +2552,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 35,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -2262,9 +2687,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "三色塔+ 風月環土鋼鐵",
-          "x": -258,
-          "y": 368,
+          "text": "三色雙人塔+ 風月環土鋼鐵",
+          "x": -235,
+          "y": 367,
           "id": 2294
         },
         {
@@ -2357,9 +2782,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "王如果沒有移動 外身位圈會切到塔中心",
-          "x": 201,
-          "y": 401,
+          "text": "王如果沒有移動 月還鋼鐵會剛好切到塔中心",
+          "x": 168,
+          "y": 405,
           "id": 2305
         },
         {
@@ -2414,8 +2839,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "2個人會被賦予火易傷\n2個人會被賦予雷易傷\n2個人會被賦予冰易傷\n2個人沒有易傷",
-          "x": -277,
-          "y": 182,
+          "x": -280,
+          "y": 185,
           "id": 2310
         },
         {
@@ -2552,7 +2977,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 35,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -2679,20 +3104,6 @@
           "id": 2358
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "三色塔+ 風月環土鋼鐵",
-          "x": -258,
-          "y": 368,
-          "id": 2359
-        },
-        {
           "type": "circle",
           "color": "#ff0000",
           "opacity": 35,
@@ -2793,12 +3204,12 @@
           "type": "text",
           "align": "left",
           "fontSize": 25,
-          "color": "#ffffff",
+          "color": "#00e622",
           "opacity": 100,
           "rotation": 0,
-          "text": "有易傷:找自己易傷塔，順時針的下一個屬性\n  例如:火易傷 找 火塔 順時針屬性 (冰塔)",
-          "x": -169,
-          "y": 301,
+          "text": "易傷組(6人):找自己易傷塔，順時針的下一個屬性\n  例如:火易傷 找 火塔 順時針屬性 (冰塔)",
+          "x": -147,
+          "y": 321,
           "id": 2373
         },
         {
@@ -2901,29 +3312,15 @@
           "stroke": "#40352c",
           "style": "outline",
           "type": "text",
-          "align": "center",
+          "align": "left",
           "fontSize": 25,
-          "color": "#ffffff",
+          "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "無易傷(無職):負責每一輪 有2屬性塔的塔",
-          "x": -187,
-          "y": 234,
+          "text": "無職(無易傷2人):負責每一輪 有2座屬性塔\n",
+          "x": -184,
+          "y": 253,
           "id": 2380
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "優先級: THD",
-          "x": 293,
-          "y": 391,
-          "id": 2381
         },
         {
           "stroke": "#40352c",
@@ -2948,10 +3345,24 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "同組內優先級高的處理第1、3輪\n優先級低的處理第2輪塔",
-          "x": -218,
-          "y": -252,
-          "id": 2383
+          "text": "三色雙人塔+ 風月環土鋼鐵",
+          "x": -237,
+          "y": 372,
+          "id": 3010
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "無職",
+          "x": 1,
+          "y": 6,
+          "id": 3042
         }
       ]
     },
@@ -2963,7 +3374,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 35,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -3006,8 +3417,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 130,
-          "y": 75,
+          "x": 125,
+          "y": 93,
           "id": 2387
         },
         {
@@ -3019,8 +3430,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -125,
-          "y": 67,
+          "x": -124,
+          "y": 73,
           "id": 2388
         },
         {
@@ -3032,8 +3443,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 68,
-          "y": 39,
+          "x": 135,
+          "y": 53,
           "id": 2389
         },
         {
@@ -3045,8 +3456,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -76,
-          "y": 40,
+          "x": -146,
+          "y": -51,
           "id": 2390
         },
         {
@@ -3058,8 +3469,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -6,
-          "y": -19,
+          "x": -132,
+          "y": 46,
           "id": 2391
         },
         {
@@ -3071,8 +3482,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 28,
-          "y": -67,
+          "x": 38,
+          "y": -146,
           "id": 2392
         },
         {
@@ -3088,20 +3499,6 @@
           "x": -319,
           "y": 385,
           "id": 2393
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "三色塔+ 風月環土鋼鐵",
-          "x": -258,
-          "y": 368,
-          "id": 2394
         },
         {
           "type": "circle",
@@ -3366,13 +3763,13 @@
           "type": "text",
           "align": "center",
           "fontSize": 25,
-          "color": "#ff0000",
+          "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "高優先級踩塔\n無職高優先級 補火塔",
-          "x": -293,
-          "y": 270,
-          "id": 2422
+          "text": "三色雙人塔+ 風月環土鋼鐵",
+          "x": -236,
+          "y": 368,
+          "id": 3011
         },
         {
           "stroke": "#40352c",
@@ -3380,13 +3777,13 @@
           "type": "text",
           "align": "center",
           "fontSize": 25,
-          "color": "#ffffff",
+          "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "優先級: THD",
-          "x": 312,
-          "y": 388,
-          "id": 2423
+          "text": "無職",
+          "x": -77,
+          "y": 51,
+          "id": 3041
         }
       ]
     },
@@ -3398,7 +3795,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 35,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -3415,8 +3812,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -86,
-          "y": 21,
+          "x": 30,
+          "y": 155,
           "id": 2425
         },
         {
@@ -3428,8 +3825,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 2,
-          "y": -72,
+          "x": -158,
+          "y": 43,
           "id": 2426
         },
         {
@@ -3441,8 +3838,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 79,
-          "y": 50,
+          "x": 78,
+          "y": -132,
           "id": 2427
         },
         {
@@ -3454,8 +3851,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -53,
-          "y": 79,
+          "x": -114,
+          "y": -96,
           "id": 2428
         },
         {
@@ -3467,8 +3864,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 68,
-          "y": 135,
+          "x": 120,
+          "y": -99,
           "id": 2429
         },
         {
@@ -3480,8 +3877,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -132,
-          "y": 65,
+          "x": 66,
+          "y": 126,
           "id": 2430
         },
         {
@@ -3506,8 +3903,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 104,
-          "y": -126,
+          "x": -135,
+          "y": 77,
           "id": 2432
         },
         {
@@ -3523,20 +3920,6 @@
           "x": -319,
           "y": 385,
           "id": 2433
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "三色塔+ 風月環土鋼鐵",
-          "x": -258,
-          "y": 368,
-          "id": 2434
         },
         {
           "type": "circle",
@@ -3786,18 +4169,132 @@
           "id": 2455
         },
         {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": 42,
+          "y": 169,
+          "id": 3012
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": 76,
+          "y": 142,
+          "id": 3013
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215596_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Ice Resistance Down",
+          "iconId": 215596,
+          "maxStacks": 0,
+          "x": 135,
+          "y": -85,
+          "id": 3016
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215596_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Ice Resistance Down",
+          "iconId": 215596,
+          "maxStacks": 0,
+          "x": 91,
+          "y": -120,
+          "id": 3017
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215597_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Thunderstruck",
+          "iconId": 215597,
+          "maxStacks": 0,
+          "x": 88.36753236814714,
+          "y": -92.36753236814714,
+          "id": 3018,
+          "pinned": true,
+          "positionParentId": 2424
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215597_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Thunderstruck",
+          "iconId": 215597,
+          "maxStacks": 0,
+          "x": -122,
+          "y": 92,
+          "id": 3019
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215597_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Thunderstruck",
+          "iconId": 215597,
+          "maxStacks": 0,
+          "x": -147,
+          "y": 53,
+          "id": 3020
+        },
+        {
           "stroke": "#40352c",
           "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
-          "color": "#ff0000",
+          "color": "#00e622",
           "opacity": 100,
           "rotation": 0,
-          "text": "低優先級踩塔\n無職低優先級 補雷塔",
-          "x": -286,
-          "y": 271,
-          "id": 2456
+          "text": "易傷組(6人):順時針找下一個屬性的塔",
+          "x": -207,
+          "y": 303,
+          "id": 3021
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "無職組(2人):找其他屬性的塔 有2座的屬性塔",
+          "x": -171,
+          "y": 264,
+          "id": 3022
         },
         {
           "stroke": "#40352c",
@@ -3808,10 +4305,52 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "優先級: THD",
-          "x": 312,
-          "y": 388,
-          "id": 2457
+          "text": "三色雙人塔+ 風月環土鋼鐵",
+          "x": -234,
+          "y": 370,
+          "id": 3023
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "無職",
+          "x": -63,
+          "y": -74,
+          "id": 3040
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": -72,
+          "y": -134,
+          "id": 3043
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": -106,
+          "y": -108,
+          "id": 3044
         }
       ]
     },
@@ -3823,7 +4362,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 35,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -3853,8 +4392,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 136,
-          "y": -155,
+          "x": 141,
+          "y": -148,
           "id": 2460
         },
         {
@@ -3866,8 +4405,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 188,
-          "y": 102,
+          "x": 195,
+          "y": 94,
           "id": 2461
         },
         {
@@ -3879,8 +4418,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 203,
-          "y": -46,
+          "x": 208,
+          "y": -24,
           "id": 2462
         },
         {
@@ -3892,8 +4431,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 136,
-          "y": 168,
+          "x": 153,
+          "y": 128,
           "id": 2463
         },
         {
@@ -3905,8 +4444,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -190,
-          "y": -101,
+          "x": -114,
+          "y": 174,
           "id": 2464
         },
         {
@@ -3918,8 +4457,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -66,
-          "y": -185,
+          "x": 199,
+          "y": -62,
           "id": 2465
         },
         {
@@ -3931,8 +4470,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 184,
-          "y": -110,
+          "x": 102,
+          "y": -171,
           "id": 2466
         },
         {
@@ -3948,20 +4487,6 @@
           "x": -319,
           "y": 385,
           "id": 2467
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "三色塔+ 風月環土鋼鐵",
-          "x": -258,
-          "y": 368,
-          "id": 2468
         },
         {
           "type": "circle",
@@ -4071,7 +4596,6 @@
           "x": 13.6,
           "y": -17.6,
           "id": 2479,
-          "pinned": true,
           "positionParentId": 2461
         },
         {
@@ -4135,24 +4659,7 @@
           "x": 13.6,
           "y": -17.6,
           "id": 2483,
-          "positionParentId": 2460,
-          "pinned": true
-        },
-        {
-          "opacity": 100,
-          "type": "icon",
-          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215596_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
-          "rotation": 0,
-          "name": "Ice Resistance Down",
-          "iconId": 215596,
-          "maxStacks": 0,
-          "x": 13.6,
-          "y": -17.6,
-          "id": 2484,
-          "positionParentId": 2466,
-          "pinned": true
+          "positionParentId": 2460
         },
         {
           "stroke": "#40352c",
@@ -4211,20 +4718,6 @@
           "id": 2488
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "優先級: THD",
-          "x": 312,
-          "y": 388,
-          "id": 2490
-        },
-        {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 75,
@@ -4239,13 +4732,223 @@
           "type": "text",
           "align": "center",
           "fontSize": 25,
-          "color": "#ff0000",
+          "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "高優先級踩塔\n無職高優先級 補冰塔",
-          "x": -292,
-          "y": 268,
-          "id": 2492
+          "text": "三色雙人塔+ 風月環土鋼鐵",
+          "x": -237,
+          "y": 369,
+          "id": 3024
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00e622",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "易傷組(6人):順時針找下一個屬性的塔",
+          "x": -205,
+          "y": 291,
+          "id": 3025
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "無職組(2人):找其他屬性的塔 有2座的屬性塔",
+          "x": -168,
+          "y": 254,
+          "id": 3026
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215597_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Thunderstruck",
+          "iconId": 215597,
+          "maxStacks": 0,
+          "x": 206,
+          "y": 105,
+          "id": 3028
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215597_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Thunderstruck",
+          "iconId": 215597,
+          "maxStacks": 0,
+          "x": 163,
+          "y": 141,
+          "id": 3029
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215596_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Ice Resistance Down",
+          "iconId": 215596,
+          "maxStacks": 0,
+          "x": -64,
+          "y": 209,
+          "id": 3030
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215596_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Ice Resistance Down",
+          "iconId": 215596,
+          "maxStacks": 0,
+          "x": -103,
+          "y": 189,
+          "id": 3031
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215596_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Ice Resistance Down",
+          "iconId": 215596,
+          "maxStacks": 0,
+          "x": 111,
+          "y": -184,
+          "id": 3032
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": 153,
+          "y": -136,
+          "id": 3033
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": 113,
+          "y": -155,
+          "id": 3034
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "無職",
+          "x": 273,
+          "y": -41,
+          "id": 3035
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215597_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Thunderstruck",
+          "iconId": 215597,
+          "maxStacks": 0,
+          "x": 222,
+          "y": -39,
+          "id": 3036
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215597_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Thunderstruck",
+          "iconId": 215597,
+          "maxStacks": 0,
+          "x": 218,
+          "y": -84,
+          "id": 3037
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": 222,
+          "y": -11,
+          "id": 3038
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215595_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Firescorched",
+          "iconId": 215595,
+          "maxStacks": 0,
+          "x": 219,
+          "y": -62,
+          "id": 3039
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "一開始賦予的易傷會消失",
+          "x": 267,
+          "y": 397,
+          "id": 3045
         }
       ]
     },
@@ -4257,7 +4960,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -4387,14 +5090,14 @@
           "stroke": "#40352c",
           "style": "outline",
           "type": "text",
-          "align": "center",
+          "align": "left",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "連續AOEx4",
-          "x": -315,
-          "y": 358,
+          "text": "連續AOEx4\n前T 左H 右D 準備AA",
+          "x": -265,
+          "y": 339,
           "id": 2537
         }
       ]
@@ -4550,18 +5253,6 @@
           "type": "stack",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 75,
-          "x": -108,
-          "y": -96,
-          "id": 2560,
-          "pinned": false,
-          "positionParentId": 2549
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#fc972b",
-          "opacity": 35,
           "radius": 133,
           "x": 114,
           "y": -122,
@@ -4578,10 +5269,19 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "職能刀\nDPS的分攤比較大",
-          "x": -280,
-          "y": 347,
-          "id": 2562
+          "text": "職能刀\nDPS的分攤比較大\nH應該是單點",
+          "x": -279,
+          "y": 328,
+          "id": 3075
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 50,
+          "x": -108,
+          "y": -87,
+          "id": 3076
         }
       ]
     },
@@ -4980,8 +5680,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 49,
-          "y": -274,
+          "x": 259,
+          "y": 144,
           "id": 2619
         },
         {
@@ -5087,8 +5787,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "遠程自己出去靠邊就行",
-          "x": -280,
-          "y": -292,
+          "x": -278,
+          "y": -256,
           "id": 2629
         },
         {
@@ -5101,9 +5801,37 @@
           "opacity": 100,
           "rotation": 0,
           "text": "近戰一人一角",
-          "x": -330,
-          "y": -256,
+          "x": -329,
+          "y": -225,
           "id": 2630
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "",
+          "x": 275,
+          "y": 348,
+          "id": 3400
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "結束記得吃補，這裡是人群最散開的一次",
+          "x": -179,
+          "y": -289,
+          "id": 3404
         }
       ]
     },
@@ -5115,13 +5843,13 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 2907
+          "id": 3292
         },
         {
           "opacity": 100,
@@ -5132,9 +5860,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
-          "y": 120,
-          "id": 2908
+          "x": -71,
+          "y": 168,
+          "id": 3293
         },
         {
           "opacity": 100,
@@ -5145,9 +5873,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -3,
-          "y": 197,
-          "id": 2909
+          "x": 58,
+          "y": 164,
+          "id": 3294
         },
         {
           "opacity": 100,
@@ -5158,9 +5886,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -147,
-          "y": 6,
-          "id": 2910
+          "x": -169,
+          "y": 100,
+          "id": 3295
         },
         {
           "opacity": 100,
@@ -5171,9 +5899,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 150,
-          "y": -5,
-          "id": 2911
+          "x": -57,
+          "y": -154,
+          "id": 3296
         },
         {
           "opacity": 100,
@@ -5184,9 +5912,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -66,
-          "y": -210,
-          "id": 2912
+          "x": 168,
+          "y": 90,
+          "id": 3297
         },
         {
           "opacity": 100,
@@ -5197,9 +5925,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -113,
-          "y": -106,
-          "id": 2913
+          "x": -175,
+          "y": -71,
+          "id": 3298
         },
         {
           "opacity": 100,
@@ -5210,9 +5938,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 95,
-          "y": -105,
-          "id": 2914
+          "x": 75,
+          "y": -151,
+          "id": 3299
         },
         {
           "opacity": 100,
@@ -5223,9 +5951,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 52,
-          "y": -207,
-          "id": 2915
+          "x": 175,
+          "y": -70,
+          "id": 3300
         },
         {
           "stroke": "#40352c",
@@ -5239,7 +5967,7 @@
           "text": "狂氣のオーケストラ",
           "x": -303,
           "y": 400,
-          "id": 2916
+          "id": 3301
         },
         {
           "stroke": "#40352c",
@@ -5253,7 +5981,7 @@
           "text": "",
           "x": -336,
           "y": 332,
-          "id": 2917
+          "id": 3302
         },
         {
           "stroke": "#40352c",
@@ -5267,7 +5995,7 @@
           "text": "",
           "x": -350,
           "y": 321,
-          "id": 2918
+          "id": 3303
         },
         {
           "stroke": "#40352c",
@@ -5278,55 +6006,55 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -204,
+          "text": "第二輪: 一仇坦 + 近三人",
+          "x": -262,
           "y": 310,
-          "id": 2919
+          "id": 3304
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -4,
-          "y": 199,
-          "id": 2920
+          "radius": 90,
+          "x": -71,
+          "y": 169,
+          "id": 3305
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -1,
-          "y": 113,
-          "id": 2921
+          "radius": 90,
+          "x": 60,
+          "y": 161,
+          "id": 3306
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -146,
-          "y": 10,
-          "id": 2922
+          "radius": 90,
+          "x": -169,
+          "y": 101,
+          "id": 3307
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -108,
-          "y": -100,
-          "id": 2923
+          "radius": 90,
+          "x": -177,
+          "y": -66,
+          "id": 3308
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": 142,
-          "y": -1,
-          "id": 2924
+          "radius": 90,
+          "x": 162,
+          "y": 87,
+          "id": 3309
         },
         {
           "stroke": "#40352c",
@@ -5340,7 +6068,7 @@
           "text": "因為下一個機制是AA \n所以 左H 右D",
           "x": -277,
           "y": -259,
-          "id": 2925
+          "id": 3310
         },
         {
           "opacity": 100,
@@ -5352,9 +6080,9 @@
           "name": "Holy Purgation",
           "iconId": 215113,
           "maxStacks": 0,
-          "x": -12,
-          "y": 130,
-          "id": 2926
+          "x": -58,
+          "y": 183,
+          "id": 3311
         },
         {
           "opacity": 100,
@@ -5366,9 +6094,9 @@
           "name": "Soul of Fire",
           "iconId": 215122,
           "maxStacks": 0,
-          "x": -15,
-          "y": 214,
-          "id": 2927
+          "x": 75,
+          "y": 183,
+          "id": 3312
         },
         {
           "stroke": "#40352c",
@@ -5382,7 +6110,7 @@
           "text": "第一輪: 雙坦(一仇賦予火 二仇賦予Holy) \n             + DH隨機三人(賦予長秒數易傷)",
           "x": -175,
           "y": 356,
-          "id": 2928
+          "id": 3313
         },
         {
           "stroke": "#40352c",
@@ -5396,7 +6124,49 @@
           "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
           "x": -153,
           "y": 278,
-          "id": 2929
+          "id": 3314
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Magic Defense Down",
+          "iconId": 215057,
+          "maxStacks": 0,
+          "x": -184,
+          "y": 114,
+          "id": 3315
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Magic Defense Down",
+          "iconId": 215057,
+          "maxStacks": 0,
+          "x": -197,
+          "y": -52,
+          "id": 3316
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Magic Defense Down",
+          "iconId": 215057,
+          "maxStacks": 0,
+          "x": 184,
+          "y": 106,
+          "id": 3317
         },
         {
           "stroke": "#40352c",
@@ -5404,127 +6174,69 @@
           "type": "text",
           "align": "center",
           "fontSize": 25,
-          "color": "#00e622",
+          "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "這邊開始之前 要換一仇坦(為了無敵入軸)",
-          "x": 188.5,
-          "y": 406.5,
-          "id": 2980
+          "text": "",
+          "x": -280,
+          "y": 176,
+          "id": 3318
         },
         {
-          "type": "draw",
-          "points": [
-            -0.5,
-            0.47468354430379744,
-            -0.15853658536585366,
-            0.5,
-            0.06097560975609756,
-            0.44936708860759494,
-            0.3048780487804878,
-            0.37341772151898733,
-            0.47560975609756095,
-            0.2088607594936709,
-            0.5,
-            -0.2721518987341772,
-            0.23170731707317074,
-            -0.4240506329113924,
-            -0.13414634146341464,
-            -0.5
-          ],
-          "x": 52,
-          "y": 159,
-          "width": 41,
-          "height": 79,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
           "opacity": 100,
-          "id": 2981
+          "rotation": 0,
+          "text": "",
+          "x": 33,
+          "y": -235,
+          "id": 3319
         },
         {
-          "type": "draw",
-          "points": [
-            0.5,
-            0.5,
-            -0.5,
-            -0.08333333333333333,
-            0.05555555555555555,
-            -0.3055555555555556,
-            0.1111111111111111,
-            -0.5
-          ],
-          "x": 31.5,
-          "y": 195.5,
-          "width": 18,
-          "height": 36,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
           "opacity": 100,
-          "id": 2982
+          "rotation": 0,
+          "text": "T H D是以斜八方的站法，站在身位圈外",
+          "x": 169,
+          "y": -244,
+          "id": 3320
         },
         {
-          "type": "draw",
-          "points": [
-            0.34210526315789475,
-            0.5,
-            -0.5,
-            -0.25,
-            0.5,
-            -0.5
-          ],
-          "x": 40,
-          "y": 125.5,
-          "width": 19,
-          "height": 32,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
           "opacity": 100,
-          "id": 2983
+          "rotation": 0,
+          "text": "",
+          "x": 123,
+          "y": 360,
+          "id": 3321
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ff0000",
           "opacity": 100,
-          "type": "icon",
-          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
           "rotation": 0,
-          "name": "Magic Defense Down",
-          "iconId": 215057,
-          "maxStacks": 0,
-          "x": -166,
-          "y": 20,
-          "id": 2995
-        },
-        {
-          "opacity": 100,
-          "type": "icon",
-          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
-          "rotation": 0,
-          "name": "Magic Defense Down",
-          "iconId": 215057,
-          "maxStacks": 0,
-          "x": -127,
-          "y": -94,
-          "id": 2996
-        },
-        {
-          "opacity": 100,
-          "type": "icon",
-          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
-          "rotation": 0,
-          "name": "Magic Defense Down",
-          "iconId": 215057,
-          "maxStacks": 0,
-          "x": 137,
-          "y": 9,
-          "id": 2997
+          "text": "第一輪之前\n一仇要是T2 (拿火)",
+          "x": 261,
+          "y": 235,
+          "id": 3399
         }
       ]
     },
@@ -5536,13 +6248,13 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 2948
+          "id": 3322
         },
         {
           "opacity": 100,
@@ -5553,9 +6265,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 0,
-          "y": 125,
-          "id": 2949
+          "x": -86,
+          "y": 167,
+          "id": 3323
         },
         {
           "opacity": 100,
@@ -5566,9 +6278,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -2,
-          "y": 200,
-          "id": 2950
+          "x": 72,
+          "y": 170,
+          "id": 3324
         },
         {
           "opacity": 100,
@@ -5581,7 +6293,7 @@
           "rotation": 0,
           "x": -227,
           "y": 4,
-          "id": 2951
+          "id": 3325
         },
         {
           "opacity": 100,
@@ -5592,9 +6304,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 227,
-          "y": -5,
-          "id": 2952
+          "x": -118,
+          "y": -13,
+          "id": 3326
         },
         {
           "opacity": 100,
@@ -5605,9 +6317,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -62,
-          "y": -113,
-          "id": 2953
+          "x": 265,
+          "y": -14,
+          "id": 3327
         },
         {
           "opacity": 100,
@@ -5618,9 +6330,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -176,
-          "y": -150,
-          "id": 2954
+          "x": -214,
+          "y": -113,
+          "id": 3328
         },
         {
           "opacity": 100,
@@ -5631,9 +6343,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 95,
-          "y": -105,
-          "id": 2955
+          "x": 17,
+          "y": -99,
+          "id": 3329
         },
         {
           "opacity": 100,
@@ -5644,9 +6356,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 52,
-          "y": -207,
-          "id": 2956
+          "x": 130,
+          "y": -11,
+          "id": 3330
         },
         {
           "stroke": "#40352c",
@@ -5660,7 +6372,7 @@
           "text": "狂氣のオーケストラ",
           "x": -305,
           "y": 399,
-          "id": 2957
+          "id": 3331
         },
         {
           "stroke": "#40352c",
@@ -5674,7 +6386,7 @@
           "text": "",
           "x": -336,
           "y": 332,
-          "id": 2958
+          "id": 3332
         },
         {
           "stroke": "#40352c",
@@ -5688,7 +6400,7 @@
           "text": "",
           "x": -350,
           "y": 321,
-          "id": 2959
+          "id": 3333
         },
         {
           "stroke": "#40352c",
@@ -5699,75 +6411,33 @@
           "color": "#ff0000",
           "opacity": 100,
           "rotation": 0,
-          "text": "第二輪: 一仇坦 + 近三人(坦可誘導)",
-          "x": -201,
-          "y": 307,
-          "id": 2960
+          "text": "第二輪: 一仇坦 + 近三人",
+          "x": -260,
+          "y": 305,
+          "id": 3334
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -1,
-          "y": 113,
-          "id": 2961
+          "radius": 90,
+          "x": -88,
+          "y": 162,
+          "id": 3335
         },
         {
           "stroke": "#40352c",
           "style": "outline",
           "type": "text",
-          "align": "center",
+          "align": "left",
           "fontSize": 25,
-          "color": "#ffffff",
+          "color": "#ff0000",
           "opacity": 100,
           "rotation": 0,
-          "text": "T1在第一輪之後嘲諷 \n開無敵 同時接一仇+近誘導",
-          "x": 216,
-          "y": 140,
-          "id": 2962
-        },
-        {
-          "type": "draw",
-          "points": [
-            0.5,
-            -0.5,
-            -0.5,
-            -0.47058823529411764,
-            -0.4672131147540984,
-            -0.23529411764705882,
-            -0.2540983606557377,
-            0.35294117647058826,
-            -0.13934426229508196,
-            0.5
-          ],
-          "x": -152.5,
-          "y": 19,
-          "width": 61,
-          "height": 34,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2963
-        },
-        {
-          "type": "draw",
-          "points": [
-            -0.5,
-            0.5,
-            0.5,
-            -0.5
-          ],
-          "x": -179.5,
-          "y": -8,
-          "width": 15,
-          "height": 26,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2964
+          "text": "T1在第一輪之後 \n嘲諷+無敵",
+          "x": -240,
+          "y": 174,
+          "id": 3336
         },
         {
           "type": "draw",
@@ -5781,15 +6451,15 @@
             -0.5,
             -0.5
           ],
-          "x": -117.5,
-          "y": -98,
+          "x": -136,
+          "y": -41,
           "width": 43,
           "height": 42,
           "rotation": 0,
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2965
+          "id": 3337
         },
         {
           "type": "draw",
@@ -5803,101 +6473,15 @@
             0.5,
             -0.4722222222222222
           ],
-          "x": -136.5,
-          "y": -115,
+          "x": -154,
+          "y": -60,
           "width": 31,
           "height": 36,
           "rotation": 0,
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2966
-        },
-        {
-          "type": "draw",
-          "points": [
-            -0.5,
-            -0.39655172413793105,
-            -0.1349206349206349,
-            -0.39655172413793105,
-            0.007936507936507936,
-            -0.5,
-            0.5,
-            -0.43103448275862066,
-            0.48412698412698413,
-            0.22413793103448276,
-            0.40476190476190477,
-            0.5
-          ],
-          "x": 166.5,
-          "y": 3.5,
-          "width": 63,
-          "height": 29,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2967
-        },
-        {
-          "type": "draw",
-          "points": [
-            0.5,
-            0.5,
-            -0.5,
-            -0.5
-          ],
-          "x": 188,
-          "y": -29.5,
-          "width": 24,
-          "height": 29,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#00e622",
-          "opacity": 100,
-          "id": 2968
-        },
-        {
-          "type": "draw",
-          "points": [
-            0.3125,
-            -0.5,
-            0.5,
-            -0.08208955223880597,
-            0.3125,
-            0.5,
-            0.125,
-            0.5,
-            -0.5,
-            0.3208955223880597
-          ],
-          "x": -69,
-          "y": -164.5,
-          "width": 16,
-          "height": 67,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#0066ff",
-          "opacity": 100,
-          "id": 2969
-        },
-        {
-          "type": "draw",
-          "points": [
-            -0.5,
-            0.5,
-            0.5,
-            -0.5
-          ],
-          "x": -41,
-          "y": -140.5,
-          "width": 30,
-          "height": 17,
-          "rotation": 0,
-          "brushSize": 8,
-          "color": "#0066ff",
-          "opacity": 100,
-          "id": 2970
+          "id": 3338
         },
         {
           "stroke": "#40352c",
@@ -5908,10 +6492,10 @@
           "color": "#00e622",
           "opacity": 100,
           "rotation": 0,
-          "text": "H1 H2 D1 D2:只要被炸就往後退",
+          "text": "H D:被炸就外退 慢慢往南半場靠",
           "x": -223,
-          "y": -251,
-          "id": 2971
+          "y": -229,
+          "id": 3339
         },
         {
           "stroke": "#40352c",
@@ -5925,39 +6509,25 @@
           "text": "",
           "x": 147,
           "y": -280,
-          "id": 2972
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#0066ff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "D3 D4:看前面兩個人 如果被炸就往前",
-          "x": -200,
-          "y": -288,
-          "id": 2973
+          "id": 3340
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": -63,
-          "y": -111,
-          "id": 2974
+          "radius": 90,
+          "x": -120,
+          "y": -14,
+          "id": 3341
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 50,
-          "x": 94,
-          "y": -105,
-          "id": 2975
+          "radius": 90,
+          "x": 19,
+          "y": -94,
+          "id": 3342
         },
         {
           "opacity": 100,
@@ -5969,9 +6539,9 @@
           "name": "Soul of Fire",
           "iconId": 215122,
           "maxStacks": 0,
-          "x": -14,
-          "y": 212,
-          "id": 2976
+          "x": 57,
+          "y": 192,
+          "id": 3343
         },
         {
           "opacity": 100,
@@ -5983,9 +6553,9 @@
           "name": "Holy Purgation",
           "iconId": 215113,
           "maxStacks": 0,
-          "x": -11,
-          "y": 133,
-          "id": 2977
+          "x": -102,
+          "y": 184,
+          "id": 3344
         },
         {
           "stroke": "#40352c",
@@ -5999,7 +6569,7 @@
           "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
           "x": -150,
           "y": 276,
-          "id": 2978
+          "id": 3345
         },
         {
           "stroke": "#40352c",
@@ -6013,7 +6583,7 @@
           "text": "第一輪: 雙坦(一仇賦予火 二仇賦予Holy) \n             + DH隨機三人(賦予長秒數易傷)",
           "x": -173,
           "y": 351,
-          "id": 2979
+          "id": 3346
         },
         {
           "opacity": 100,
@@ -6025,9 +6595,9 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": -242,
-          "y": 24,
-          "id": 2998
+          "x": -244,
+          "y": 20,
+          "id": 3347
         },
         {
           "opacity": 100,
@@ -6039,9 +6609,9 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": -192,
-          "y": -135,
-          "id": 2999
+          "x": -226,
+          "y": -95,
+          "id": 3348
         },
         {
           "opacity": 100,
@@ -6053,9 +6623,9 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 215,
-          "y": 18,
-          "id": 3000
+          "x": 247,
+          "y": 4,
+          "id": 3349
         },
         {
           "opacity": 100,
@@ -6067,9 +6637,9 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": -74,
-          "y": -92,
-          "id": 3001
+          "x": -106,
+          "y": -4,
+          "id": 3350
         },
         {
           "opacity": 100,
@@ -6081,9 +6651,304 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 82,
-          "y": -91,
-          "id": 3002
+          "x": 29,
+          "y": -87,
+          "id": 3351
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.3064516129032258,
+            0.15263157894736842,
+            0.46774193548387094,
+            -0.3,
+            0.5,
+            -0.45789473684210524,
+            -0.14516129032258066,
+            -0.5,
+            -0.5
+          ],
+          "x": -165.5,
+          "y": 53.5,
+          "width": 95,
+          "height": 31,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3352
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            -0.4142857142857143,
+            -0.21428571428571427,
+            -0.21428571428571427,
+            -0.4642857142857143,
+            -0.07142857142857142,
+            -0.5,
+            0.5,
+            -0.25
+          ],
+          "x": -207.5,
+          "y": 46,
+          "width": 35,
+          "height": 28,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3353
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.004,
+            0.5,
+            0.212,
+            0.35714285714285715,
+            0.276,
+            0.2755102040816326,
+            0.492,
+            -0.25510204081632654,
+            0.5,
+            -0.5
+          ],
+          "x": 177.5,
+          "y": 36.5,
+          "width": 125,
+          "height": 49,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3354
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.46551724137931033,
+            0.5,
+            0.5,
+            -0.5,
+            -0.5,
+            -0.39285714285714285
+          ],
+          "x": 238.5,
+          "y": 27,
+          "width": 29,
+          "height": 28,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3355
+        },
+        {
+          "stroke": "#0066ff",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "H D:沒被炸就往裡面站到 內身位圈 \n       稍微看左右散開",
+          "x": -209,
+          "y": -283,
+          "id": 3356
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            -0.5,
+            0.5,
+            0.06043956043956044,
+            0.4090909090909091,
+            0.34615384615384615,
+            -0.13636363636363635,
+            0.489010989010989,
+            -0.5,
+            0.5
+          ],
+          "x": -83.5,
+          "y": -131.5,
+          "width": 11,
+          "height": 91,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3357
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "x": -96,
+          "y": -96,
+          "width": 14,
+          "height": 20,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3358
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.5,
+            -0.5
+          ],
+          "x": -73.5,
+          "y": -87.5,
+          "width": 25,
+          "height": 1,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3359
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            -0.5,
+            0.25,
+            -0.39655172413793105,
+            -0.23076923076923078,
+            -0.07471264367816093,
+            -0.4423076923076923,
+            0.2471264367816092,
+            -0.5,
+            0.5
+          ],
+          "x": 46,
+          "y": -170.5,
+          "width": 52,
+          "height": 87,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3360
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "x": 12.5,
+          "y": -133,
+          "width": 15,
+          "height": 12,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3361
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.5,
+            -0.5
+          ],
+          "x": 31,
+          "y": -131.5,
+          "width": 18,
+          "height": 9,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3362
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 90,
+          "x": 128,
+          "y": -14,
+          "id": 3363
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215057_hr1.tex?format=png",
+          "width": 24,
+          "height": 32,
+          "rotation": 0,
+          "name": "Magic Defense Down",
+          "iconId": 215057,
+          "maxStacks": 0,
+          "x": 114,
+          "y": 0,
+          "id": 3364
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            -0.5,
+            0.3181818181818182,
+            -0.3380952380952381,
+            0.21428571428571427,
+            -0.1380952380952381,
+            -0.2922077922077922,
+            0.5,
+            -0.33116883116883117,
+            0.5,
+            -0.5,
+            0.3476190476190476
+          ],
+          "x": 158.5,
+          "y": -101.5,
+          "width": 77,
+          "height": 105,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3365
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            -0.5,
+            0.5,
+            0.5
+          ],
+          "x": 148.5,
+          "y": -43.5,
+          "width": 25,
+          "height": 3,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3366
         }
       ]
     },
@@ -6095,13 +6960,13 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 2930
+          "id": 3367
         },
         {
           "opacity": 100,
@@ -6112,9 +6977,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -4,
-          "y": 114,
-          "id": 2931
+          "x": -8,
+          "y": 117,
+          "id": 3368
         },
         {
           "opacity": 100,
@@ -6125,9 +6990,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -4,
-          "y": 278,
-          "id": 2932
+          "x": -2,
+          "y": 272,
+          "id": 3369
         },
         {
           "opacity": 100,
@@ -6138,9 +7003,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -141,
-          "y": -121,
-          "id": 2933
+          "x": -143,
+          "y": -165,
+          "id": 3370
         },
         {
           "opacity": 100,
@@ -6151,9 +7016,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 70,
-          "y": -134,
-          "id": 2934
+          "x": 46,
+          "y": -182,
+          "id": 3371
         },
         {
           "opacity": 100,
@@ -6164,9 +7029,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 144,
-          "y": -136,
-          "id": 2935
+          "x": 125,
+          "y": -185,
+          "id": 3372
         },
         {
           "opacity": 100,
@@ -6177,9 +7042,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -115,
-          "y": -121,
-          "id": 2936
+          "x": -107,
+          "y": -164,
+          "id": 3373
         },
         {
           "opacity": 100,
@@ -6190,9 +7055,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 129,
-          "y": -94,
-          "id": 2937
+          "x": 162,
+          "y": -145,
+          "id": 3374
         },
         {
           "opacity": 100,
@@ -6203,9 +7068,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 92,
-          "y": -158,
-          "id": 2938
+          "x": 85,
+          "y": -184,
+          "id": 3375
         },
         {
           "stroke": "#40352c",
@@ -6219,7 +7084,7 @@
           "text": "",
           "x": -336,
           "y": 332,
-          "id": 2939
+          "id": 3376
         },
         {
           "stroke": "#40352c",
@@ -6233,16 +7098,16 @@
           "text": "",
           "x": -350,
           "y": 321,
-          "id": 2940
+          "id": 3377
         },
         {
           "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 341,
+          "radius": 403,
           "x": 2,
           "y": 284,
-          "id": 2941
+          "id": 3378
         },
         {
           "stroke": "#40352c",
@@ -6256,7 +7121,7 @@
           "text": "",
           "x": 147,
           "y": -280,
-          "id": 2942
+          "id": 3379
         },
         {
           "stroke": "#40352c",
@@ -6270,7 +7135,7 @@
           "text": "狂氣のオーケストラ",
           "x": -301,
           "y": 404,
-          "id": 2943
+          "id": 3380
         },
         {
           "stroke": "#40352c",
@@ -6284,7 +7149,7 @@
           "text": "結束: 火坦:自身大鋼鐵 Holy坦:自身四人分攤",
           "x": -150,
           "y": 369,
-          "id": 2944
+          "id": 3381
         },
         {
           "count": 1,
@@ -6294,9 +7159,9 @@
           "radius": 75,
           "x": 0,
           "y": 0,
-          "id": 2945,
+          "id": 3382,
           "pinned": false,
-          "positionParentId": 2931
+          "positionParentId": 3368
         },
         {
           "opacity": 100,
@@ -6310,7 +7175,7 @@
           "maxStacks": 0,
           "x": -18,
           "y": 295,
-          "id": 2946
+          "id": 3383
         },
         {
           "opacity": 100,
@@ -6322,9 +7187,9 @@
           "name": "Holy Purgation",
           "iconId": 215113,
           "maxStacks": 0,
-          "x": -17,
-          "y": 126,
-          "id": 2947
+          "x": -26,
+          "y": 139,
+          "id": 3384
         },
         {
           "opacity": 100,
@@ -6336,9 +7201,9 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 114,
-          "y": -82,
-          "id": 3003
+          "x": 181,
+          "y": -133,
+          "id": 3385
         },
         {
           "opacity": 100,
@@ -6350,9 +7215,187 @@
           "name": "Magic Defense Down",
           "iconId": 215057,
           "maxStacks": 0,
-          "x": 126,
-          "y": -126,
-          "id": 3004
+          "x": 37,
+          "y": -156,
+          "id": 3386
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "人群往南半場靠 \n同時左H 右D 準備接AA",
+          "x": 3,
+          "y": -251,
+          "id": 3387
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.3611111111111111,
+            0.5,
+            -0.5,
+            0.23880597014925373,
+            -0.4444444444444444,
+            0.022388059701492536,
+            -0.3055555555555556,
+            -0.13432835820895522,
+            0.5,
+            -0.5
+          ],
+          "x": -198,
+          "y": -73,
+          "width": 36,
+          "height": 134,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3388
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.475,
+            0.5,
+            0.5,
+            -0.20967741935483872,
+            0.35,
+            -0.5,
+            -0.5,
+            -0.5
+          ],
+          "x": -185,
+          "y": -134.5,
+          "width": 40,
+          "height": 31,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3389
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            0.5,
+            0.24305555555555555,
+            0.3780487804878049,
+            0.0625,
+            -0.08536585365853659,
+            -0.2916666666666667,
+            -0.5,
+            -0.5
+          ],
+          "x": 229.5,
+          "y": -56,
+          "width": 41,
+          "height": 144,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3390
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.3333333333333333,
+            0.5,
+            -0.5,
+            -0.5,
+            -0.08333333333333333,
+            -0.5,
+            0.5,
+            -0.36486486486486486
+          ],
+          "x": 214,
+          "y": -120.5,
+          "width": 24,
+          "height": 37,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#ffffff",
+          "opacity": 100,
+          "id": 3391
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#00e622",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "火坦靠邊\n",
+          "x": 94,
+          "y": 247,
+          "id": 3392
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "HOLY坦(一仇)往腳下走 \n避免王移動",
+          "x": -170,
+          "y": 175,
+          "id": 3395
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            -0.37037037037037035,
+            0.20833333333333334,
+            0.1111111111111111,
+            -0.2638888888888889,
+            0.5,
+            -0.5,
+            0.48148148148148145,
+            -0.19444444444444445
+          ],
+          "x": -63,
+          "y": 125,
+          "width": 54,
+          "height": 72,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3401
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.29310344827586204,
+            0.25,
+            0.5,
+            -0.5
+          ],
+          "x": -50.5,
+          "y": 84,
+          "width": 29,
+          "height": 4,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "id": 3402
         }
       ]
     },
@@ -6364,7 +7407,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -6507,18 +7550,6 @@
           "type": "stack",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 75,
-          "x": -108,
-          "y": -96,
-          "id": 2759,
-          "pinned": false,
-          "positionParentId": 2748
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#fc972b",
-          "opacity": 35,
           "radius": 133,
           "x": 114,
           "y": -122,
@@ -6535,10 +7566,19 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "職能刀\nDPS的分攤比較大",
-          "x": -280,
-          "y": 347,
-          "id": 2761
+          "text": "職能刀\nDPS的分攤比較大\nH應該是單點",
+          "x": -279,
+          "y": 334,
+          "id": 3077
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 50,
+          "x": -112,
+          "y": -91,
+          "id": 3078
         }
       ]
     },
@@ -6550,7 +7590,7 @@
           "name": "",
           "color": "#ff0000",
           "opacity": 65,
-          "radius": 180,
+          "radius": 150,
           "status": [],
           "rotation": 0,
           "ring": "dir",
@@ -6595,9 +7635,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "讀條結束 \n王會變成無身位\n同時尺寸往內縮一圈 (縮到內身位圈)",
-          "x": -160,
-          "y": 291,
+          "text": "讀條結束 \n王會變成無身位",
+          "x": -273,
+          "y": 310,
           "id": 2787
         },
         {
@@ -6609,9 +7649,23 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 55,
-          "y": -75,
+          "x": 106,
+          "y": -121,
           "id": 2788
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "人群右後方集合(方便打身位)",
+          "x": 156,
+          "y": -198,
+          "id": 3049
         }
       ]
     },
@@ -6640,13 +7694,13 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 4,
-          "y": -155,
+          "x": -18,
+          "y": -152,
           "id": 2793
         },
         {
           "type": "circle",
-          "color": "#000000",
+          "color": "#20052e",
           "opacity": 100,
           "radius": 120,
           "x": 0,
@@ -6658,8 +7712,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 103,
-          "x": -125,
-          "y": 141,
+          "x": 112,
+          "y": -105,
           "id": 2796
         },
         {
@@ -6671,9 +7725,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "黑洞(1)",
-          "x": -373,
-          "y": 398,
+          "text": "ミッシング黑洞(1)",
+          "x": -313,
+          "y": 402,
           "id": 2797
         },
         {
@@ -6691,22 +7745,8 @@
           "id": 2798
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 40,
-          "rotation": 0,
-          "text": "前面王身位圈大小做錯了(我懶得修前面了)",
-          "x": 183,
-          "y": 406,
-          "id": 2799
-        },
-        {
           "type": "circle",
-          "color": "#000000",
+          "color": "#20052e",
           "opacity": 100,
           "radius": 120,
           "x": 200,
@@ -6723,8 +7763,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "中心 和 某一斜點會被黑洞覆蓋",
-          "x": -221,
-          "y": 356,
+          "x": -204,
+          "y": 366,
           "id": 2802
         },
         {
@@ -6736,9 +7776,9 @@
           "color": "#00e622",
           "opacity": 100,
           "rotation": 0,
-          "text": "人群分攤",
-          "x": -343,
-          "y": 276,
+          "text": "人群順時針分攤",
+          "x": -306,
+          "y": 294,
           "id": 2804
         },
         {
@@ -6747,8 +7787,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 97,
-          "x": 1,
-          "y": -159,
+          "x": -21,
+          "y": -154,
           "id": 2805,
           "positionParentId": 2789,
           "pinned": false
@@ -6762,9 +7802,9 @@
           "color": "#ffc800",
           "opacity": 100,
           "rotation": 0,
-          "text": "隨機正點斜點的地方會有 鋼鐵 ",
-          "x": -221,
-          "y": 317,
+          "text": "隨機點一人，他最近的正點或斜點會有 鋼鐵 ",
+          "x": -127,
+          "y": 332,
           "id": 2818
         },
         {
@@ -6776,10 +7816,96 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "黑洞不能踩\n踩了直接除外不給復活",
+          "text": "黑洞不能踩\n踩了直接除外 不給復活",
           "x": 213,
           "y": -188,
           "id": 2890
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "",
+          "x": -273,
+          "y": 363,
+          "id": 3051
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "分攤完會再炸一次 ミッシング(痛)",
+          "x": -205,
+          "y": 254,
+          "id": 3052
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            0.5,
+            0.4090909090909091,
+            0.43617021276595747,
+            0.07954545454545454,
+            -0.05319148936170213,
+            -0.5,
+            -0.5,
+            -0.4659090909090909,
+            -0.43617021276595747,
+            -0.4431818181818182,
+            0.13829787234042554
+          ],
+          "x": 53,
+          "y": -134.5,
+          "width": 88,
+          "height": 47,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3055
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            0.5,
+            0.5,
+            -0.5
+          ],
+          "x": 23.5,
+          "y": -163.5,
+          "width": 27,
+          "height": 3,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3056
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "每一個黑洞跟王外身位圈大小是一樣的",
+          "x": 197,
+          "y": -278,
+          "id": 3398
         }
       ]
     },
@@ -6808,8 +7934,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 4,
-          "y": -155,
+          "x": -120,
+          "y": -112,
           "id": 2807
         },
         {
@@ -6826,23 +7952,9 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 103,
-          "x": -147,
-          "y": -121,
+          "x": -5,
+          "y": -202,
           "id": 2809
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "黑洞(2)",
-          "x": -373,
-          "y": 398,
-          "id": 2810
         },
         {
           "stroke": "#40352c",
@@ -6857,20 +7969,6 @@
           "x": 213,
           "y": 372,
           "id": 2811
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 40,
-          "rotation": 0,
-          "text": "前面王身位圈大小做錯了(我懶得修前面了)",
-          "x": 183,
-          "y": 406,
-          "id": 2812
         },
         {
           "type": "circle",
@@ -6891,9 +7989,53 @@
           "opacity": 100,
           "rotation": 0,
           "text": "某兩斜點會被黑洞覆蓋",
-          "x": -268,
-          "y": 357,
+          "x": -245,
+          "y": 358,
           "id": 2814
+        },
+        {
+          "count": 1,
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 97,
+          "x": -119,
+          "y": -109,
+          "id": 2817,
+          "positionParentId": 2806,
+          "pinned": false
+        },
+        {
+          "type": "circle",
+          "color": "#20052e",
+          "opacity": 100,
+          "radius": 120,
+          "x": 200,
+          "y": 200,
+          "id": 2819
+        },
+        {
+          "type": "circle",
+          "color": "#20052e",
+          "opacity": 100,
+          "radius": 120,
+          "x": -200,
+          "y": 200,
+          "id": 2820
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "ミッシング黑洞(2)",
+          "x": -315,
+          "y": 394,
+          "id": 3053
         },
         {
           "stroke": "#40352c",
@@ -6904,10 +8046,68 @@
           "color": "#ffc800",
           "opacity": 100,
           "rotation": 0,
-          "text": "隨機正點斜點的地方會有 鋼鐵 ",
-          "x": -224,
-          "y": 319,
-          "id": 2815
+          "text": "隨機點一人，他最近的正點或斜點會有 鋼鐵 ",
+          "x": -126,
+          "y": 325,
+          "id": 3054
+        },
+        {
+          "type": "draw",
+          "points": [
+            0.5,
+            -0.5,
+            0.211340206185567,
+            -0.5,
+            -0.015463917525773196,
+            -0.3611111111111111,
+            -0.2422680412371134,
+            0,
+            -0.4587628865979381,
+            0.5,
+            -0.5,
+            -0.2222222222222222
+          ],
+          "x": -51.5,
+          "y": -134,
+          "width": 97,
+          "height": 36,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3057
+        },
+        {
+          "type": "draw",
+          "points": [
+            -0.5,
+            -0.5,
+            0.5,
+            0.5
+          ],
+          "x": -76,
+          "y": -108,
+          "width": 34,
+          "height": 6,
+          "rotation": 0,
+          "brushSize": 8,
+          "color": "#00e622",
+          "opacity": 100,
+          "id": 3058
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "分攤完會再炸一次 ミッシング(痛)",
+          "x": -206,
+          "y": 246,
+          "id": 3059
         },
         {
           "stroke": "#40352c",
@@ -6918,40 +8118,10 @@
           "color": "#00e622",
           "opacity": 100,
           "rotation": 0,
-          "text": "人群分攤",
-          "x": -343,
-          "y": 281,
-          "id": 2816
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 97,
-          "x": 1,
-          "y": -159,
-          "id": 2817,
-          "positionParentId": 2806,
-          "pinned": false
-        },
-        {
-          "type": "circle",
-          "color": "#000000",
-          "opacity": 100,
-          "radius": 120,
-          "x": 200,
-          "y": 200,
-          "id": 2819
-        },
-        {
-          "type": "circle",
-          "color": "#000000",
-          "opacity": 100,
-          "radius": 120,
-          "x": -200,
-          "y": 200,
-          "id": 2820
+          "text": "人群順時針分攤",
+          "x": -304,
+          "y": 283,
+          "id": 3060
         }
       ]
     },
@@ -6980,8 +8150,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -94,
-          "y": 100,
+          "x": -134,
+          "y": 7,
           "id": 2822
         },
         {
@@ -6998,23 +8168,9 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 103,
-          "x": 225,
-          "y": -6,
+          "x": -152,
+          "y": -159,
           "id": 2824
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "黑洞(3)",
-          "x": -373,
-          "y": 398,
-          "id": 2825
         },
         {
           "stroke": "#40352c",
@@ -7029,20 +8185,6 @@
           "x": 213,
           "y": 372,
           "id": 2826
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 40,
-          "rotation": 0,
-          "text": "前面王身位圈大小做錯了(我懶得修前面了)",
-          "x": 183,
-          "y": 406,
-          "id": 2827
         },
         {
           "type": "circle",
@@ -7063,37 +8205,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "最後斜點 + 隨機正點 會被黑洞覆蓋",
-          "x": -205,
-          "y": 358,
+          "x": -176,
+          "y": 357,
           "id": 2829
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffc800",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "隨機正點斜點的地方會有 鋼鐵   (待確認 是不是只有正點)",
-          "x": -88,
-          "y": 322,
-          "id": 2830
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#00e622",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "人群分攤 (目標是順時針走到 正點黑洞對面附近)",
-          "x": -136,
-          "y": 283,
-          "id": 2831
         },
         {
           "type": "circle",
@@ -7119,15 +8233,15 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 97,
-          "x": -91,
-          "y": 97,
+          "x": -130,
+          "y": 9,
           "id": 2832,
           "positionParentId": 2821,
           "pinned": false
         },
         {
           "type": "circle",
-          "color": "#000000",
+          "color": "#20052e",
           "opacity": 100,
           "radius": 120,
           "x": -200,
@@ -7136,7 +8250,7 @@
         },
         {
           "type": "circle",
-          "color": "#000000",
+          "color": "#20052e",
           "opacity": 100,
           "radius": 120,
           "x": 5,
@@ -7162,56 +8276,102 @@
           "points": [
             0.5,
             -0.5,
-            0.2345132743362832,
-            -0.4321266968325792,
-            0.01327433628318584,
-            -0.33710407239819007,
-            -0.12831858407079647,
-            -0.25565610859728505,
-            -0.2079646017699115,
-            -0.1832579185520362,
-            -0.29646017699115046,
-            -0.07013574660633484,
-            -0.3672566371681416,
-            0.1515837104072398,
-            -0.3584070796460177,
-            0.3552036199095023,
-            -0.22566371681415928,
+            0.328125,
+            -0.40625,
+            -0.046875,
+            0,
+            -0.203125,
+            0.23958333333333334,
+            -0.25,
             0.5,
-            -0.4026548672566372,
-            0.4819004524886878,
+            -0.3125,
+            0.4895833333333333,
             -0.5,
-            0.4502262443438914
+            0.3020833333333333
           ],
-          "x": -89.5,
-          "y": -40.5,
-          "width": 113,
-          "height": 221,
+          "x": -115,
+          "y": -76,
+          "width": 64,
+          "height": 96,
           "rotation": 0,
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2856
+          "id": 3061
         },
         {
           "type": "draw",
           "points": [
             -0.5,
             0.5,
-            -0.20967741935483872,
-            0.35714285714285715,
             0.5,
             -0.5
           ],
-          "x": -100.5,
-          "y": 51,
-          "width": 31,
-          "height": 28,
+          "x": -119.5,
+          "y": -29.5,
+          "width": 19,
+          "height": 7,
           "rotation": 0,
           "brushSize": 8,
           "color": "#00e622",
           "opacity": 100,
-          "id": 2857
+          "id": 3062
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "ミッシング黑洞(3)",
+          "x": -308,
+          "y": 397,
+          "id": 3063
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "分攤完會再炸一次 ミッシング(痛)",
+          "x": -214,
+          "y": 247,
+          "id": 3065
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00e622",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "人群順時針分攤 (如果順時針被封路 可以多走兩格或後面全改逆時針)",
+          "x": -25,
+          "y": 286,
+          "id": 3066
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffc800",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "隨機點一人，他最近的正點或斜點會有 鋼鐵 ",
+          "x": -124,
+          "y": 318,
+          "id": 3067
         }
       ]
     },
@@ -7240,8 +8400,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 106,
-          "y": 98,
+          "x": -100,
+          "y": 96,
           "id": 2840
         },
         {
@@ -7262,38 +8422,10 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "黑洞(4)",
-          "x": -373,
-          "y": 398,
-          "id": 2843
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
           "text": "",
           "x": 213,
           "y": 372,
           "id": 2844
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 40,
-          "rotation": 0,
-          "text": "前面王身位圈大小做錯了(我懶得修前面了)",
-          "x": 183,
-          "y": 406,
-          "id": 2845
         },
         {
           "type": "circle",
@@ -7314,23 +8446,9 @@
           "opacity": 100,
           "rotation": 0,
           "text": "某兩正點 會被黑洞覆蓋",
-          "x": -267,
-          "y": 358,
+          "x": -244,
+          "y": 357,
           "id": 2847
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#00e622",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "人群分攤",
-          "x": -346,
-          "y": 291,
-          "id": 2849
         },
         {
           "type": "circle",
@@ -7383,22 +8501,8 @@
           "id": 2855
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffc800",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "隨機正點斜點的地方會有 鋼鐵   (待確認 是不是只有正點)",
-          "x": -82,
-          "y": 321,
-          "id": 2859
-        },
-        {
           "type": "circle",
-          "color": "#000000",
+          "color": "#20052e",
           "opacity": 100,
           "radius": 120,
           "x": -210,
@@ -7407,7 +8511,7 @@
         },
         {
           "type": "circle",
-          "color": "#000000",
+          "color": "#20052e",
           "opacity": 100,
           "radius": 120,
           "x": 2,
@@ -7419,8 +8523,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 103,
-          "x": 221,
-          "y": -9,
+          "x": -162,
+          "y": -8,
           "id": 2863
         },
         {
@@ -7462,6 +8566,48 @@
           "x": -5,
           "y": 114,
           "id": 2866
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "ミッシング黑洞(4)",
+          "x": -307,
+          "y": 400,
+          "id": 3068
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffc800",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "隨機點一人，他最近的正點或斜點會有 鋼鐵 ",
+          "x": -124,
+          "y": 324,
+          "id": 3069
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00e622",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "人群順時針分攤 (如果順時針被封路 可以多走兩格或逆時針)",
+          "x": -78,
+          "y": 288,
+          "id": 3070
         }
       ]
     },
@@ -7490,8 +8636,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 155,
-          "y": 23,
+          "x": -100,
+          "y": 100,
           "id": 2868
         },
         {
@@ -7516,20 +8662,6 @@
           "x": 213,
           "y": 372,
           "id": 2871
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 40,
-          "rotation": 0,
-          "text": "前面王身位圈大小做錯了(我懶得修前面了)",
-          "x": 183,
-          "y": 406,
-          "id": 2872
         },
         {
           "type": "circle",
